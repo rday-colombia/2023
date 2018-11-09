@@ -1,7 +1,7 @@
 name: "Rday"
 output_dir: "."
 navbar:
-  title: "Rday"
+  title: "Home"
   left:
     - text: "Programa"
       href: programa.html
