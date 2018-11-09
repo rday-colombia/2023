@@ -1,0 +1,23 @@
+---
+title: "Actividades para segundo semestre de 2018"
+---
+
+
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/Invitacion_2018_2.png")
+grid.raster(img)
+```
+
+En este segundo semestre del 2018 vamos a explorar algunas de las presentaciones realizadas en el evento [useR! 2018](https://user2018.r-project.org). Abajo está la programación de Semillero.
+
+- 13 de agosto [Tidy forecasting in R](https://www.youtube.com/watch?v=MemnYSGeJ34)
+- 27 de agosto [FastR: an alternative R language implementation](https://www.youtube.com/watch?v=E5Au2eWsU-A)
+- 3 de septiembre [Speeding up computations in R with parallel programming in the cloud](https://www.youtube.com/watch?v=x7Kyp4cb7wk)
+- 10 de septiembre [Combining R and Python with GraalVM](https://www.youtube.com/watch?v=ONNRWOTvtgw)
+- 17 de septiembre [Helping R to be (even more) accurate](https://www.youtube.com/watch?v=3Bu7QUxzIbA)
+- 24 de septiembre Creación de exámenes con el paquete [exams](https://cran.r-project.org/web/packages/exams/index.html), sólo para profesores.
+
+
+Todas las presentaciones de useR! 2018 están disponibles en este [canal de videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos).

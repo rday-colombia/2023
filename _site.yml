@@ -1,0 +1,24 @@
+name: "Rday"
+output_dir: "."
+navbar:
+  title: "Rday"
+  left:
+    - text: "Noticias"
+      icon: fa-newspaper-o
+      href: inf.html
+    - text: "Información"
+      icon: fa-info-circle
+      href: about.html
+  right:
+    - icon: ion-university
+      href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
+    - icon: fa-lightbulb-o
+      href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html
+    - icon: fa-github
+      href: https://github.com/srunal
+output:
+  html_document:
+    theme: cosmo
+    includes:
+      after_body: footer.html
+      in_header: header.html

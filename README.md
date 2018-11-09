@@ -1,2 +1,2 @@
-# rdaymedellin.github.io
-Página web de Rday Medellín
+# Rday Medellín
+Webpage del Rday Medellín

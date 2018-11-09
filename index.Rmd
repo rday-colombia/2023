@@ -1,0 +1,7 @@
+---
+title: ""
+---
+
+<h1><center>Bienvenid@ a la página del Semillero de R.</center></h1>
+
+<img src="imagenes/unalcover.png" alt="Mountain View">

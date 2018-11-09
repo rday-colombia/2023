@@ -1,0 +1,44 @@
+---
+title: ""
+---
+
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/srunal2.png")
+grid.raster(img)
+```
+
+## ¿Qué es un semillero de investigación?
+
+Son grupos donde se adquieren instrumentos para el desarrollo de investigaciones en un ambiente de tertulia y diálogo, y en donde se aprende a aprender y se descubre nuevo conocimiento y métodos de aprendizaje.
+
+## ¿Quiénes pueden participar?
+
+Cualquier estudiante que pase la prueba de admisión.
+
+## Objetivos:
+
+1. Fomentar un espacio de discusión que genere una actitud reflexiva y crítica sobre problemas relacionados con estadística computacional.
+
+2. Proponer y ejecutar proyectos de investigación para las convocatorias del Programa Nacional de Semilleros de Investigación de la Universidad Nacional de Colombia.
+
+## ¿Qué se hace en el Semillero de R?
+
+1. Reuniones regulares.
+2. Grupos de estudio.
+3. Proponer y ejecutar proyectos de investigación.
+4. Divulgación de resultados.
+5. Interacción académica
+
+## ¿Dónde y cuándo nos reunimos?
+
+- Lugar: salón 309 bloque 43.
+- Día: algunos lunes.
+- Hora: 2 pm.
+
+## Dirección del Semillero
+
+- [Freddy Hernández](https://fhernanb.github.io), profesor, Escuela de Estadística, UNAL.
+
+
