@@ -4,10 +4,8 @@ navbar:
   title: "Rday"
   left:
     - text: "Programa"
-      icon: fa-newspaper-o
       href: programa.html
     - text: "Registro"
-      icon: fa-info-circle
       href: registro.html
 output:
   html_document:
