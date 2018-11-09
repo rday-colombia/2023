@@ -4,5 +4,5 @@ title: ""
 
 <h1><center>Bienvenidos a la página.</center></h1>
 
-<img src="imagenes/PAGINA_CONSTRUCCION.jpg" alt="Mountain View">
+<img src="imagenes/medellin.jpg" alt="Mountain View">
 
