@@ -1,0 +1,10 @@
+---
+title: "Fechas importantes"
+---
+
+| Actividad                                                          | Fecha      |
+|--------------------------------------------------------------------|------------|
+| Inicio de inscripciones                                            | 01/xx/2018 |
+| Início del sometimiento de propuestas (presentaciones)             | xx/xx/2019 |
+| Fin del sometimiento de propuestas (presentaciones)                | xx/xx/2019 |
+| Fin de las inscripciones                                           | xx/xx/2019 |
