@@ -4,7 +4,5 @@ title: "Programa"
 
 Abajo se encuentra el programa provisional del evento.
 
-<iframe src="https://docs.google.com/spreadsheets/d/1zwoRWS6bUL4yhf8vaZ5xx-iJLVAYhs5yYYRrg4_nxdE/edit?usp=sharing"width: 90%;height: 1050px;"></iframe>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRkiuet9jP3KuBKi0AdhEPeswXqxMCw_vmSRj8YKr7Jwqa2i9FTHlt-GTBS2DgRgR8Kvy0I2FX3YUyB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"style="width: 90%;height: 1050px;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXqasuphg67TUTu6gvuRuxeh1I30uj_1Jmn5aU04JxeCFqAeZrvN_EtsQBF4Saqy-F7vfkaPEg8rjg/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"style="width: 95%;height: 800px;></iframe>
 
