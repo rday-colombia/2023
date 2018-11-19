@@ -2,4 +2,7 @@
 title: "Programa"
 ---
 
-Aquí irá el programa del evento.
+Abajo se encuentra el programa provisional del evento.
+
+<img src="imagenes/programacion.png" alt="Mountain View">
+
