@@ -2,7 +2,11 @@
 title: ""
 ---
 
-<h1><center>Bienvenidos a la página de Rday Medellín 2019.</center></h1>
+<h2> </h2>
 
-<img src="imagenes/medellin2.png" alt="Mountain View">
+<img src="imagenes/medellin_esp.png" alt="Mountain View">
 
+<center>
+To visit our page in Spanish
+<a href="https://rdaymedellin.github.io/index.html"><img border="0" src="imagenes/ing.png" width="35" height="25"></a>
+</center>
