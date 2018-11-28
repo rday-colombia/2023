@@ -1,0 +1,12 @@
+---
+title: "Medellín"
+---
+
+Para conocer sobre Medellín se recomienda visitar [https://medellin.travel](https://medellin.travel)
+
+<br/>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
