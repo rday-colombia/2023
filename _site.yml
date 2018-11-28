@@ -13,8 +13,8 @@ navbar:
       href: fechas.html
     - text: "Medellín"
       href: medellin.html
-    - text: "Comité"
-      href: comite.html
+    - text: "General"
+      href: general.html
 output:
   html_document:
     theme: cosmo

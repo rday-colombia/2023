@@ -1,0 +1,21 @@
+---
+title: ""
+---
+
+<br/>
+
+## Comisión organizadora
+- Olga Usuga (UdeA)
+- Marisol Valencia (UdeA)
+- Freddy Hernández (Unal Medellín)
+- Mauricio Mazo (Unal Medellín)
+
+<br/>
+
+## Contacto
+Para comunicarse con la organización del evento puede escribir al correo: rdaymedellin@gmail.com
+
+<br/>
+
+## Universidades organizadoras
+<img src="imagenes/auxiliar.png" alt="Universidades organizadoras">

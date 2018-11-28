@@ -4,7 +4,7 @@ title: ""
 
 <h2> </h2>
 
-<img src="imagenes/medellin_esp.png" alt="Mountain View">
+<img src="imagenes/medellin_esp.png" alt="Panorama">
 
 <center>
 Para visitar nuestra página en Inglés
