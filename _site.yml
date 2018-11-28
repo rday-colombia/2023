@@ -5,14 +5,16 @@ navbar:
   left:
     - text: "Programa"
       href: programa.html
+    - text: "Lugar"
+      href: lugar.html
     - text: "Registro"
       href: registro.html
     - text: "Fechas"
       href: fechas.html
-    - text: "Comité"
-      href: comite.html
     - text: "Medellín"
       href: medellin.html
+    - text: "Comité"
+      href: comite.html
 output:
   html_document:
     theme: cosmo
