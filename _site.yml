@@ -15,6 +15,11 @@ navbar:
       href: medellin.html
     - text: "General"
       href: general.html
+  right:
+  - icon: fa-twitter
+    href: https://twitter.com/MedellinRday
+  - icon: fa-github
+    href: https://github.com/rdaymedellin
 output:
   html_document:
     theme: cosmo
