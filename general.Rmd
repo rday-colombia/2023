@@ -14,8 +14,3 @@ title: ""
 
 ## Contacto
 Para comunicarse con la organización del evento puede escribir al correo: rdaymedellin@gmail.com
-
-<br/>
-
-## Universidades organizadoras
-<img src="imagenes/auxiliar.png" alt="Universidades organizadoras">
