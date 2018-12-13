@@ -5,14 +5,16 @@ navbar:
   left:
     - text: "Programa"
       href: programa.html
+    - text: "Conferencistas"
+      href: conferencistas.html
     - text: "Lugar"
       menu:
-      - text: Local
+      - text: Medellin
+        icon: fa-warehouse
+        href: medellin.html
+      - text: Auditorio
         icon: fa-map-marker
         href: lugar.html
-      - text: Medellin
-        icon: fa-city
-        href: medellin.html
     - text: "Registro"
       href: registro.html
     - text: "Fechas"
