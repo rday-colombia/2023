@@ -15,6 +15,8 @@ navbar:
       href: medellin.html
     - text: "General"
       href: general.html
+    - text: "Código de conducta"
+      href: conducta.html
   right:
   - icon: fa-twitter
     href: https://twitter.com/MedellinRday
