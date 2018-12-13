@@ -9,7 +9,7 @@ navbar:
       href: conferencistas.html
     - text: "Lugar"
       menu:
-      - text: Medellin
+      - text: Medellín
         icon: fa-warehouse
         href: medellin.html
       - text: Auditorio
