@@ -6,13 +6,17 @@ navbar:
     - text: "Programa"
       href: programa.html
     - text: "Lugar"
-      href: lugar.html
+      menu:
+      - text: Local
+        icon: fa-map-marker
+        href: lugar.html
+      - text: Medellin
+        icon: fa-city
+        href: medellin.html
     - text: "Registro"
       href: registro.html
     - text: "Fechas"
       href: fechas.html
-    - text: "Medellín"
-      href: medellin.html
     - text: "General"
       href: general.html
     - text: "Código de conducta"

@@ -1,5 +1,5 @@
 ---
-title: "Lugar"
+title: "Local"
 ---
 
 El evento se realizará en la Sede de Investigación Universitaria (SIU).
