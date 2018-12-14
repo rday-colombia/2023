@@ -15,7 +15,14 @@ Para visitar nuestra página en Inglés
 <br/>
 
 <center>
-Respaldado por
+Por favor llene la siguiente encuesta para recibir información actualizada del Rday <a href="https://goo.gl/forms/yHTRphBuSNT2Qu3v2"><img border="0" src="imagenes/encuesta.png" width="28" height="28"></a>
 </center>
 
+<br/>
+<br/>
+
+<center>
+Respaldado por
 <img src="imagenes/auxiliar.png" alt="Universidades organizadoras">
+</center>
+
