@@ -6,14 +6,19 @@ Estamos muy felices de presentar a los conferencistas del evento.
 
 <center>
 <img src="imagenes/gabriela.png" width="300" height="300" alt="">
-
 Gabriela de Queiroz  
 Founder & CEO  @R-Ladies  
 Sr. Developer Advocate (ML/DL/AI) @IBM  
 Data Scientist + Speaker + Mentor + Advisor  
-
 <a href="https://twitter.com/gdequeiroz"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://k-roz.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
-
 </center>
 
 
+
+<center>
+<img src="imagenes/mine.png" width="300" height="300" alt="">
+Associate Professor of the Practice  
+Director of Undergraduate Studies  
+Department of Statistical Science, Duke University
+<a href="https://twitter.com/minebocek"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://www2.stat.duke.edu/~mc301/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
+</center>
