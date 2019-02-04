@@ -11,7 +11,7 @@
 
 
 
-<title>Código de conducta</title>
+<title>CÃ³digo de conducta</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130981607-1"></script>
 <script>
@@ -108,6 +107,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -122,7 +124,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -142,6 +143,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -163,18 +201,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -209,7 +306,7 @@ $(document).ready(function () {
       <a href="medellin.html">
         <span class="fa fa-warehouse"></span>
          
-        Medellín
+        MedellÃ­n
       </a>
     </li>
     <li>
@@ -231,7 +328,10 @@ $(document).ready(function () {
   <a href="general.html">General</a>
 </li>
 <li>
-  <a href="conducta.html">Código de conducta</a>
+  <a href="conducta.html">CÃ³digo de conducta</a>
+</li>
+<li>
+  <a href="concurso.html">Concurso</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -256,37 +356,37 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Código de conducta</h1>
+<h1 class="title toc-ignore">CÃ³digo de conducta</h1>
 
 </div>
 
 
 <P ALIGN="justify">
-Todos en nuestro evento deben estar de acuerdo con el siguiente código de conducta. Los organizadores haremos cumplir este código durante todo el evento. Esperamos la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todos.
+Todos en nuestro evento deben estar de acuerdo con el siguiente cÃ³digo de conducta. Los organizadores haremos cumplir este cÃ³digo durante todo el evento. Esperamos la cooperaciÃ³n de todos los participantes para ayudar a garantizar un entorno seguro para todos.
 <P>
-<div id="necesita-ayuda" class="section level1">
-<h1>¿Necesita ayuda?</h1>
-<p>Tiene nuestros datos de contacto en la parte inferior de la página web del evento en <a href="https://rdaymedellin.github.io/general.html" class="uri">https://rdaymedellin.github.io/general.html</a>.</p>
+<div id="anecesita-ayuda" class="section level1">
+<h1>Â¿Necesita ayuda?</h1>
+<p>Tiene nuestros datos de contacto en la parte inferior de la pÃ¡gina web del evento en <a href="https://rdaymedellin.github.io/general.html" class="uri">https://rdaymedellin.github.io/general.html</a>.</p>
 </div>
-<div id="version-corta" class="section level1">
-<h1>Versión corta</h1>
+<div id="versian-corta" class="section level1">
+<h1>VersiÃ³n corta</h1>
 <P ALIGN="justify">
-Esperamos que Rday sea un evento libre de acoso para todos, independientemente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. No toleramos el acoso de los participantes del evento de ninguna forma. El lenguaje sexual y las imágenes no son apropiados para ningún lugar del evento, incluídas charlas, talleres, fiestas, redes sociales y otros medios en línea. Los participantes del evento que violen estas reglas pueden ser sancionados o expulsados del evento sin un reembolso a discreción de los organizadores del evento.
+Esperamos que Rday sea un evento libre de acoso para todos, independientemente del sexo, identidad, gÃ©nero, edad, orientaciÃ³n sexual, discapacidad, apariencia fÃ­sica, tamaÃ±o corporal, raza, etnia, religiÃ³n (o la falta de ella), ideologÃ­a u opciones tecnolÃ³gicas. No toleramos el acoso de los participantes del evento de ninguna forma. El lenguaje sexual y las imÃ¡genes no son apropiados para ningÃºn lugar del evento, incluÃ­das charlas, talleres, fiestas, redes sociales y otros medios en lÃ­nea. Los participantes del evento que violen estas reglas pueden ser sancionados o expulsados del evento sin un reembolso a discreciÃ³n de los organizadores del evento.
 <P>
 </div>
-<div id="version-menos-corta" class="section level1">
-<h1>Versión menos corta</h1>
+<div id="versian-menos-corta" class="section level1">
+<h1>VersiÃ³n menos corta</h1>
 <P ALIGN="justify">
-El acoso incluye comentarios verbales ofensivos relacionados con el género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión, ideología, elección de tecnología, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, seguimiento, acoso fotográfico o grabación, interrupción sostenida de las conversaciones u eventos, contacto físico inapropiado y atención sexual no deseada.
+El acoso incluye comentarios verbales ofensivos relacionados con el gÃ©nero, identidad y expresiÃ³n de gÃ©nero, edad, orientaciÃ³n sexual, discapacidad, apariencia fÃ­sica, tamaÃ±o corporal, raza, origen Ã©tnico, religiÃ³n, ideologÃ­a, elecciÃ³n de tecnologÃ­a, imÃ¡genes sexuales en espacios pÃºblicos, intimidaciÃ³n deliberada, acoso, seguimiento, acoso fotogrÃ¡fico o grabaciÃ³n, interrupciÃ³n sostenida de las conversaciones u eventos, contacto fÃ­sico inapropiado y atenciÃ³n sexual no deseada.
 <P>
 <P ALIGN="justify">
-Esperamos que aquellos participantes a quienes se les solicite detener cualquier comportamiento de acoso cumplan inmediatamente. Si un participante se involucra en un comportamiento de acoso, los organizadores del evento pueden tomar las medidas que consideren apropiadas, tales como una advertencia o la expulsión del evento sin reembolso.
+Esperamos que aquellos participantes a quienes se les solicite detener cualquier comportamiento de acoso cumplan inmediatamente. Si un participante se involucra en un comportamiento de acoso, los organizadores del evento pueden tomar las medidas que consideren apropiadas, tales como una advertencia o la expulsiÃ³n del evento sin reembolso.
 <P>
 <P ALIGN="justify">
-Si lo hostigan, observa que alguien más está siendo hostigado o tiene comentarios al respecto, comuníquese de inmediato con personal del evento. El personal del evento puede ser identificado a través de su credencial.
+Si lo hostigan, observa que alguien mÃ¡s estÃ¡ siendo hostigado o tiene comentarios al respecto, comunÃ­quese de inmediato con personal del evento. El personal del evento puede ser identificado a travÃ©s de su credencial.
 <P>
 <P ALIGN="justify">
-El personal del evento ayudará a los participantes a ponerse en contacto con la seguridad del lugar, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la conferencia. Valoramos su asistencia al Rday.
+El personal del evento ayudarÃ¡ a los participantes a ponerse en contacto con la seguridad del lugar, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la conferencia. Valoramos su asistencia al Rday.
 <P>
 <P ALIGN="justify">
 Esperamos que los participantes sigan estas reglas tanto durante el evento como en eventos sociales relacionados con las mismas.
