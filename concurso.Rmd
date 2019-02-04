@@ -2,7 +2,7 @@
 title: ""
 ---
 
-# Concurso de diseño del Logotipo Rday Medellín 2019
+# __Concurso de diseño del Logotipo Rday Medellín 2019__
 
 El Comité Organizador del Rday Medellín 2019 organiza y desarrolla el concurso de Diseño __Logotipo Rday Medellín 2019__.
 
@@ -16,10 +16,11 @@ Podrán participar gratuitamente todas las personas interesadas en el evento que
 Los trabajos deberán ser originales e inéditos, siendo el autor responsable de las acciones que se pudieran derivar del incumplimiento de alguna de estas normas. Cada participante puede presentar máximo una (1) propuesta.
 
 El contenido del diseño deberá hacer referencia al espíritu de eventos académicos de R, teniendo en cuenta que el logotipo será reproducido en documentos escritos, páginas web, redes sociales, etc.; además el logotipo deberá ser: 
-Legible hasta el tamaño más pequeño.  
-Escalable a cualquier tamaño requerido.  
-Reproducible sin restricciones materiales.
-Memorable: que impacte y no se olvide.
+
+- Legible hasta el tamaño más pequeño.  
+- Escalable a cualquier tamaño requerido.  
+- Reproducible sin restricciones materiales.
+- Memorable: que impacte y no se olvide.
 
 ## 4. Fechas: 
 Apertura del concurso: 4 de febrero de 2019. 
