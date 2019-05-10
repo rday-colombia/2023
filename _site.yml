@@ -22,7 +22,7 @@ navbar:
     - text: "Fechas"
       href: fechas.html
     - text: "Comité"
-      href: general.html
+      href: comites.html
     - text: "Código de conducta"
       href: conducta.html
   right:
