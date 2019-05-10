@@ -4,7 +4,7 @@ title: ""
 
 <br/>
 
-## Comisión organizadora
+## Comité organizador
 - [Olga Usuga](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000942065)
 - [Marisol Valencia](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349957)
 - [Freddy Hernández](https://fhernanb.github.io/)

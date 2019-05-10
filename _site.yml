@@ -19,7 +19,7 @@ navbar:
       href: registro.html
     - text: "Fechas"
       href: fechas.html
-    - text: "General"
+    - text: "Comité"
       href: general.html
     - text: "Código de conducta"
       href: conducta.html

@@ -4,8 +4,8 @@ title: "Fechas importantes"
 
 | Actividad                                                          | Fecha      |
 |--------------------------------------------------------------------|------------|
-| Inicio del sometimiento de propuestas (presentaciones)             | 01/06/2019 |
-| Fin del sometimiento de propuestas (presentaciones)                | 30/08/2019 |
-| Notificación de propuestas aceptadas                               | 30/09/2019 |
+| Inicio del sometimiento de trabajos                                | 01/06/2019 |
+| Fin del sometimiento de trabajos                                   | 30/08/2019 |
+| Notificación de trabajos aceptados                                 | 30/09/2019 |
 | Inicio de inscripciones                                            | 01/06/2019 |
 | Fin de las inscripciones                                           | 18/10/2019 |
