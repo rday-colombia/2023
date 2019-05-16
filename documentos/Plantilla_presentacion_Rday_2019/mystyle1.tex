@@ -1,0 +1,29 @@
+\titlegraphic{\includegraphics[width=3.5cm]{logo.png}}
+\usetheme{Madrid}
+
+%\usecolortheme{seahorse}
+
+% Las siguientes instrucciones para cambiar el color del tema
+\definecolor{UBCblue}{rgb}{0.00,0.00,0.40} % UBC Blue (primary)
+\usecolortheme[named=UBCblue]{structure}
+
+
+\setbeamertemplate{navigation symbols}{} % Para quitar símbolos de navegación
+\setbeamertemplate{footline}[frame number] % Para colocar # de slides
+% Paquetes
+\usepackage{ragged2e} % Para justificar
+\usepackage{hyperref}
+\usepackage[spanish]{babel}
+\RequirePackage{tikz} % Para manejar el fondo
+\decimalpoint
+\selectlanguage{spanish}
+
+%%%%%%%%%%%%%%%%%%%% Para incluir imagen esquina %%%%%%%%%%%%%%%%%%%%%%%%%%
+\setbeamertemplate{background}{
+	\begin{tikzpicture}
+	\ifnum\thepage>1\relax%
+	\fill[white, opacity=1] (0,0) rectangle(\the\paperwidth, \the\paperheight);
+	\includegraphics[width=\paperwidth, height=1.1\paperheight, angle=0]{esquina.png}
+	\fi
+	\end{tikzpicture}
+}
