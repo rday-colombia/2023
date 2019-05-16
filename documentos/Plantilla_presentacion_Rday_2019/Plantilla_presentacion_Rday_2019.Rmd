@@ -10,7 +10,7 @@ date: \today
 output:
   beamer_presentation:
     includes:
-      in_header: mystyle1.tex
+      in_header: mystyle.tex
 ---
 
 ```{r setup, include=FALSE}
