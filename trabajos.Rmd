@@ -18,7 +18,6 @@ El proceso para someter un trabajo es el siguiente:
 1. Visitar nuevamente la página [https://cmt3.research.microsoft.com/RDAY2019](https://cmt3.research.microsoft.com/RDAY2019) e ingresar con sus datos de cuenta.
 1. Dar clic en el botón __Create new submission__.
 1. Definir un título.
-1. Escribir un resumen o descripción __corto__ sobre el trabajo sometido, máximo 1000 caracteres.
 1. Ingresar el correo de cada autor del trabajo y luego dar clic en el botón __Add__.
 1. Adjuntar su trabajo en formato pdf usando la plantilla (de word o de latex) exigida. Se recomienda que este archivo tenga un extensión máxima de cuatro (4) páginas.
 1. Responder las preguntas que aparecerán.
