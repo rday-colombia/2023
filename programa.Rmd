@@ -6,3 +6,6 @@ Abajo se encuentra el programa provisional del evento.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4Aa-z6_SFoM2knC0cbxk9FfrV4UsinAaBJ5p-XRyYGSUEBihHt7F8TM9Ls4_QFv7LK_yE8XJJDGqL/pubhtml?widget=true&amp;headers=false"style="width: 95%;height: 650px;></iframe>
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4Aa-z6_SFoM2knC0cbxk9FfrV4UsinAaBJ5p-XRyYGSUEBihHt7F8TM9Ls4_QFv7LK_yE8XJJDGqL/pubhtml"style="width: 95%;height: 650px;></iframe>
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vS4Aa-z6_SFoM2knC0cbxk9FfrV4UsinAaBJ5p-XRyYGSUEBihHt7F8TM9Ls4_QFv7LK_yE8XJJDGqL/pubhtml
