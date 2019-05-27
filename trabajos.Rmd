@@ -34,6 +34,6 @@ A continuación se encuentran los formatos sugeridos para la elaboración de los
 - Para las diapositivas se recomienda usar [este formato](https://tinyurl.com/y523man8) y los archivos para crear las diapositivas se encuentran [en este repositorio](https://tinyurl.com/yxokqo83) de github.
 - El formato para el póster es libre pero debe ser en <font color="#ED852E">orientación vertical</font> con las dimensiones sugeridas en la siguiente figura.
 
-<img src="imagenes/tamano_poster.png" alt="Panorama">
-
-
+<center>
+<img src="imagenes/tamano_poster.png" alt="poster" width="450" height="450">
+</center>
