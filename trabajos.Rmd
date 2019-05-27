@@ -30,8 +30,8 @@ Una vez sometido el trabajo usted deberá esperar a la fecha de notificación de
 ## Formatos sugeridos
 A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
 
-- Formato para propuesta de trabajo [en word](https://tinyurl.com/y25wkcld) o [en rmarkdown](https://theuselessweb.com/).
+- Los trabajos sometidos deben tener [este formato](https://tinyurl.com/y53hn7sm) y los archivos necesarios para crear la propuesta se encuentran [en este repositorio](https://tinyurl.com/y6hxee2k) de github.
+- Para las diapositivas se recomienda usar [este formato](https://tinyurl.com/y523man8) y los archivos para crear las diapositivas se encuentran [en este repositorio](https://tinyurl.com/yxokqo83) de github.
 - Formato para el [póster](https://theuselessweb.com/).
-- Formato para las diapositivas de [comunicación](https://tinyurl.com/yxokqo83).
 
 
