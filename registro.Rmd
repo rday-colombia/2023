@@ -4,3 +4,8 @@ title: "Registro"
 
 En próximos días se publicará la información.
 
+
+
+<center>
+<a href="http://www.pagovirtual.unal.edu.co/index.php"><img border="0" src="imagenes/IDENTIFICADORPAGOVIRTUALUN.png" width="350" height="250"></a>
+</center>
