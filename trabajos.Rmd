@@ -16,12 +16,14 @@ El proceso para someter un trabajo es el siguiente:
 
 1. Visitar la página [https://easychair.org/conferences/?conf=rday2019](https://easychair.org/conferences/?conf=rday2019) y crear una cuenta o membresía.
 1. Visitar nuevamente la página [https://easychair.org/conferences/?conf=rday2019](https://easychair.org/conferences/?conf=rday2019) e ingresar con sus datos de cuenta.
-1. Dar clic en el botón __Create new submission__.
-1. Definir un título.
-1. Ingresar el correo de cada autor del trabajo y luego dar clic en el botón __Add__.
-1. Adjuntar su trabajo en formato pdf usando la plantilla (de word o de latex) exigida. Se recomienda que este archivo tenga un extensión máxima de cuatro (4) páginas.
-1. Responder las preguntas que aparecerán.
-1. Oprimir el boton __Submit__ para someter su trabajo.
+1. Dar clic en el hiperenlace __author__ para acceder como autor.
+1. Dar clic en el botón __New submission__.
+1. Ingresar la información de cada uno de los autores y seleccionar el autor de correspondencia.
+1. Ingresar un título para el trabajo en el cajón __Title__.
+1. Ingresar un resumen del trabajo en el cajón __Abstract__.
+1. Escribir al menos tres (3) palabras clave en el cajón __Keywords__, una por renglón.
+1. Adjuntar su trabajo en formato pdf usando la plantilla exigida. Se recomienda que este archivo tenga un extensión máxima de cuatro (4) páginas.
+1. Oprimir el boton __Submit__ una sola vez para someter su trabajo.
 
 Una vez sometido el trabajo usted deberá esperar a la fecha de notificación de aceptación de trabajos que se encuentra [en este enlace](https://rdaymedellin.github.io/fechas.html).
 
