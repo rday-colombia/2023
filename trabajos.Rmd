@@ -6,7 +6,7 @@ Son bienvenidos todos los trabajos en los cuales se haya <font color="#ED852E">u
 - Póster (60 minutos).
 - Comunicación (10 minutos para presentación y 5 minutos para preguntas).
 
-El sometimiento de trabajos para el Rday se realiza únicamente por medio de la herramienta [Conference Management Toolkit](https://cmt3.research.microsoft.com/About) de Microsoft.
+El sometimiento de trabajos para el Rday se realiza únicamente por medio de la herramienta [EasyChair](https://easychair.org/).
 
 <br/>
 
@@ -14,8 +14,8 @@ El sometimiento de trabajos para el Rday se realiza únicamente por medio de la 
 
 El proceso para someter un trabajo es el siguiente:
 
-1. Visitar la página [https://cmt3.research.microsoft.com/RDAY2019](https://cmt3.research.microsoft.com/RDAY2019) y crear una cuenta o membresía.
-1. Visitar nuevamente la página [https://cmt3.research.microsoft.com/RDAY2019](https://cmt3.research.microsoft.com/RDAY2019) e ingresar con sus datos de cuenta.
+1. Visitar la página [https://easychair.org/conferences/?conf=rday2019](https://easychair.org/conferences/?conf=rday2019) y crear una cuenta o membresía.
+1. Visitar nuevamente la página [https://easychair.org/conferences/?conf=rday2019](https://easychair.org/conferences/?conf=rday2019) e ingresar con sus datos de cuenta.
 1. Dar clic en el botón __Create new submission__.
 1. Definir un título.
 1. Ingresar el correo de cada autor del trabajo y luego dar clic en el botón __Add__.
