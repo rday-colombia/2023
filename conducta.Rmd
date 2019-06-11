@@ -6,7 +6,7 @@ Todos en nuestro evento deben estar de acuerdo con el siguiente código de condu
 <P>
 
 # ¿Necesita ayuda?
-Tiene nuestros datos de contacto en la parte inferior de la página web del evento en https://rdaymedellin.github.io/general.html.
+Si tiene alguna duda sobre el evento puede escribir a los correos electrónicos rdaymedellin@gmail.com o fhernanb@unal.edu.co
 
 # Versión corta
 <P ALIGN="justify">
