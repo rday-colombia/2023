@@ -11,3 +11,11 @@ La inscripción se debe realizar por medio de pago virtual, abajo está el botó
 <center>
 <a href="http://www.pagovirtual.unal.edu.co/index.php"><img border="0" src="imagenes/IDENTIFICADORPAGOVIRTUALUN.png" width="350" height="250"></a>
 </center>
+
+<br/>
+
+Abajo un video ilustrativo para realizar la inscripción.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6SkH_ZHfgWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
