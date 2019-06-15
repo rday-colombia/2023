@@ -25,15 +25,15 @@ El proceso para someter un trabajo es el siguiente:
 1. Adjuntar su trabajo en formato pdf usando la plantilla exigida. Se recomienda que este archivo tenga un extensión máxima de cuatro (4) páginas.
 1. Oprimir el boton __Submit__ una sola vez para someter su trabajo.
 
-Una vez sometido el trabajo usted deberá esperar a la fecha de notificación de aceptación de trabajos que se encuentra [en este enlace](https://rdaymedellin.github.io/fechas.html).
+Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptacióno o rechazo) de trabajos. Las fechas se encuentra [en este enlace](https://rdaymedellin.github.io/fechas.html).
 
 <br/>
 
 ## Formatos sugeridos
 A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
 
-- Los trabajos sometidos **deben** tener [este formato](https://tinyurl.com/y2mazbes) y los archivos necesarios para crear la propuesta se encuentran [en este repositorio](https://github.com/rdaymedellin/Plantillas) de github.
-- Para las diapositivas se recomienda usar [este formato](https://tinyurl.com/yxzkpuby) y los archivos para crear las diapositivas se encuentran [en este repositorio](https://github.com/rdaymedellin/Plantillas) de github.
+- Los trabajos sometidos **deben** tener [este formato](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019/Plantilla_trabajos_Rday.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este repositorio](https://github.com/rdaymedellin/Plantillas) de github.
+- Para las diapositivas se recomienda usar [este formato](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019/Plantilla_presentacion_Rday_2019.pdf) y los archivos para crear las diapositivas se encuentran [en este repositorio](https://github.com/rdaymedellin/Plantillas) de github.
 - El formato para el póster es libre pero debe ser en <font color="#ED852E">orientación vertical</font> con las dimensiones sugeridas en la siguiente figura.
 
 <center>
