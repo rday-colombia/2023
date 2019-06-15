@@ -32,7 +32,7 @@ Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificació
 ## Formatos sugeridos
 A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
 
-- Los trabajos sometidos **deben** tener [este formato](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019/Plantilla_trabajos_Rday.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este repositorio](https://github.com/rdaymedellin/Plantillas) de github.
+- Los trabajos sometidos **deben** tener [este formato](https://rdaymedellin.github.io/documentos/Plantillas/Plantilla_trabajos_Rday_2019/Plantilla_trabajos_Rday.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este repositorio](https://github.com/rdaymedellin/Plantillas) de github.
 - Para las diapositivas se recomienda usar [este formato](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019/Plantilla_presentacion_Rday_2019.pdf) y los archivos para crear las diapositivas se encuentran [en este repositorio](https://github.com/rdaymedellin/Plantillas) de github.
 - El formato para el póster es libre pero debe ser en <font color="#ED852E">orientación vertical</font> con las dimensiones sugeridas en la siguiente figura.
 
