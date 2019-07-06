@@ -39,3 +39,7 @@ A continuación se encuentran los formatos sugeridos para la elaboración de los
 <center>
 <img src="imagenes/tamano_poster.png" alt="poster" width="450" height="450">
 </center>
+
+## Memorias
+Todos los trabajos presentados (comunicaciones y pósteres) serán incluídos en las [memorias](https://rdaymedellin.github.io/documentos/Memorias/Memorias_Rday_Medellin.pdf) del evento.
+
