@@ -8,6 +8,10 @@ Son bienvenidos todos los trabajos en los cuales se haya <font color="#ED852E">u
 
 El sometimiento de trabajos para el Rday se realiza únicamente por medio de la herramienta [EasyChair](https://easychair.org/).
 
+<span style="background-color: #FFFF00">
+ Se ha dado un plazo adicional para someter los resúmenes, visite [este enlace](https://rdaymedellin.github.io/fechas.html) para conocer la nueva fecha.
+</span>
+
 <br/>
 
 ## Proceso
