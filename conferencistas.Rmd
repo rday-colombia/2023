@@ -21,9 +21,9 @@ Data Scientist + Speaker + Mentor + Advisor
 <img src="imagenes/mine.png" width="300" height="300" alt="">
 
 Mine Çetinkaya-Rundel  
-Associate Professor of the Practice  
-Director of Undergraduate Studies  
-Department of Statistical Science, Duke University  
+Senior Lecturer, University of Edinburgh  
+Data Scientist & Professional Educator, RStudio  
+Associate Professor of the Practice, Duke University  
 <a href="https://twitter.com/minebocek"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://www2.stat.duke.edu/~mc301/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 

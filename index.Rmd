@@ -1,5 +1,5 @@
 ---
-title: "Rday Medellín"
+title: "Rday Medellin"
 ---
 
 <h2> </h2>
