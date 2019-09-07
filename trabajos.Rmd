@@ -32,9 +32,10 @@ El proceso para someter un trabajo es el siguiente:
 Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptacióno o rechazo) de trabajos. Las fechas se encuentra [en este enlace](https://rdaymedellin.github.io/fechas.html).
 
 <center>
-Mira este video para que sepas cómo crear el resumen usando Rstudio Cloud
-<a href="https://rdaymedellin.github.io/index.html"><img border="0" src="imagenes/video_para_resumen.png" width="70" height="70"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5onax2i6VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+<br/>
 
 ## Formatos sugeridos
 A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
