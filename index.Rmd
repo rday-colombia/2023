@@ -11,11 +11,16 @@ title: "Rday Medellín"
 
 </font>
 
+<center>
+Para visitar nuestra página en inglés
+<a href="https://rdaymedellin.github.io/index.html"><img border="0" src="imagenes/ing.png" width="35" height="25"></a>
+</center>
+
 <br/>
 <br/>
 
 <center>
-<img src="imagenes/logo.png" alt="Logo" width="250" height="250">
+<img src="imagenes/hexalogo.jpg" alt="Logo" width="200" height="200">
 </center>
 
 <br/>
