@@ -1,18 +1,20 @@
 ---
 title: "Sometimiento de trabajos"
 ---
+<center>
+<span style="background-color: #D7FAC8">
+La recepción de trabajos ha finalizado, muchas gracias por participar.
+</span>
+</center>
+
+<br/>
+
 Son bienvenidos todos los trabajos en los cuales se haya <font color="#ED852E">usado R en la metodología</font> del mismo. La presentación de los trabajos se puede realizar de dos formas:
 
 - Póster (60 minutos).
 - Comunicación (10 minutos para presentación y 5 minutos para preguntas).
 
 El sometimiento de trabajos para el Rday se realiza únicamente por medio de la herramienta [EasyChair](https://easychair.org/).
-
-<span style="background-color: #F18DF0">
-Se dieron 5 días más para que usted pueda someter su trabajo. La fecha final es 20 de septiembre.
-</span>
-
-<br/>
 
 ## Proceso
 
