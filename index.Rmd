@@ -27,7 +27,7 @@ Para visitar nuestra página en inglés
 <br/>
 
 <center>
-Organiza
+Organizan
 <br/>
 <br/>
 <img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="450" height="450">

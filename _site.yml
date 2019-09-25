@@ -23,6 +23,8 @@ navbar:
       href: fechas.html
     - text: "Comité"
       href: comites.html
+    - text: "Divulgación"
+      href: divulgacion.html
     - text: "Código de conducta"
       href: conducta.html
   right:

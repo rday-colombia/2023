@@ -16,3 +16,11 @@ Aquí podrás encontrar el material de divulgación del evento.
 <center>
 <img src="imagenes/Flyer1.jpg" alt="Logo" width="200" height="200">
 </center>
+
+### Tweet
+Abajo está el tweet de divulgación, si puedes darle <font color="#EA7315">re-tweet</font> nos ayudaría mucho a divulgar el evento.
+
+<center>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La Unal en compañía de la Udea están organizando el <a href="https://twitter.com/hashtag/RdayMedellin?src=hash&amp;ref_src=twsrc%5Etfw">#RdayMedellin</a> para el 8 de noviembre del 2019. Este es un evento de un día para la divulgación del lenguaje de programación R usado en ESTADÍSTICA y MACHINE LEARNING. Visita la página <a href="https://t.co/kbDdu8kxgw">https://t.co/kbDdu8kxgw</a> <a href="https://t.co/bsXSFLmgRf">pic.twitter.com/bsXSFLmgRf</a></p>&mdash; Freddy (@fhernanb74) <a href="https://twitter.com/fhernanb74/status/1172611525409947650?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
