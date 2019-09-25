@@ -11,19 +11,19 @@ title: "Rday Medellín"
 
 </font>
 
+<br/>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XcBLEVknqvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
+
 <center>
 Para visitar nuestra página en inglés
 <a href="https://rdaymedellin.github.io/rday_eng"><img border="0" src="imagenes/ing.png" width="35" height="25"></a>
 </center>
 
-<br/>
-<br/>
-
-<center>
-<img src="imagenes/hexalogo.jpg" alt="Logo" width="200" height="200">
-</center>
-
-<br/>
 <br/>
 
 <center>
