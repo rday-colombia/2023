@@ -1,29 +1,24 @@
 ---
 title: "Divulgación"
 ---
-Aquí podrás encontrar el material de divulgación del evento.
-
-### En sitios oficiales
+### Invitaciones en sitios externos
 - Para ver la invitación en Colciencias visite este [enlace](https://www.colciencias.gov.co/evento/rday-medellin).
 - Para ver la invitación en RutaN visite este [enlace](https://www.rutanmedellin.org/es/eventos/eventos-ct-i/rday-medellin).
 
 
 ### Hexalogo
-
 <center>
 <img src="imagenes/hexalogo.jpg" alt="Logo" width="200" height="200">
 </center>
 
 
 ### Flyer
-
 <center>
 <img src="imagenes/Flyer1.jpg" alt="Logo" width="200" height="200">
 </center>
 
 ### Tweet
 Abajo está el tweet de divulgación, si puedes darle <font color="#EA7315">re-tweet</font> nos ayudaría mucho a divulgar el evento.
-
 
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> conference in Colombia? Look no further! <a href="https://t.co/9y6yYz6DCh">https://t.co/9y6yYz6DCh</a> <a href="https://t.co/inF9ciif30">pic.twitter.com/inF9ciif30</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1175142455823540224?ref_src=twsrc%5Etfw">September 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
