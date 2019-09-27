@@ -27,9 +27,15 @@ Para visitar nuestra página en inglés
 <br/>
 
 <center>
-Organizan
-<br/>
-<br/>
+Organizan  
 <img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="450" height="450">
 </center>
+
+<br/>
+
+<center>
+Apoya  
+<img src="imagenes/uninorte.png" alt="uninorte" width="250" height="250">
+</center>
+
 
