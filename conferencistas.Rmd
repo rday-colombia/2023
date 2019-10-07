@@ -31,10 +31,14 @@ Associate Professor of the Practice, Duke University
 <br>
 
 <center>
-<img src="imagenes/jairo2.png" width="330" height="330" alt="">
+<img src="imagenes/jorge_conf.png" width="300" height="300" alt="">
 
-Jairo Fúquene  
-Statistical consultant to Vital Strategies,  
-on the Bloomberg Philanthropies Data for Health Initiative  
-<a href="https://www.jairofuquene.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
+Jorge I. Vélez  
+Profesor Asistente,  
+Departamento de Ingeniería Industrial  
+Universidad del Norte,  
+Barranquilla, Colombia  
+PhD in Medical Sciences (Genomics and Precision Medicine)  
+Australian National University, Canberra, Australia  
+<a href="https://jivelez.github.io/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
