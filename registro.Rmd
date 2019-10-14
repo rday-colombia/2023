@@ -9,7 +9,7 @@ La inscripción para cualquier asistente tiene un valor de $100.000.
 La inscripción se debe realizar por medio de pago virtual, abajo está el botón que lo llevará al sitio seguro para realizar el pago.
 
 <center>
-<a href="http://www.pagovirtual.unal.edu.co/index.php"><img border="0" src="imagenes/IDENTIFICADORPAGOVIRTUALUN.png" width="350" height="250"></a>
+<a href="http://www.pagovirtual.unal.edu.co/index.php"><img border="0" src="imagenes/IDENTIFICADORPAGOVIRTUALUN.png" width="150" height="40"></a>
 </center>
 
 <br/>
