@@ -14,7 +14,7 @@ La inscripción se debe realizar por medio de pago virtual, abajo está el botó
 
 <br/>
 
-Abajo un video ilustrativo para realizar la inscripción.
+Abajo hay un video ilustrativo para realizar la inscripción.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6SkH_ZHfgWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
