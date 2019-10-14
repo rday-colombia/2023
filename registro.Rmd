@@ -4,7 +4,7 @@ title: "Registro"
 
 Para realizar el registro al evento se deben seguir dos pasos:
 
-### <font color="#0F4D8A">1. Pagar la inscripción.</font>
+# 1. Pagar la inscripción.
 
 La inscripción tiene un valor de $100.000. El pago se debe realizar en forma virtual y abajo está el botón que lo llevará al sitio seguro para realizar el pago.
 
@@ -20,9 +20,9 @@ Abajo hay un video ilustrativo de como realizar el pago.
 <iframe width="280" height="157.5" src="https://www.youtube.com/embed/6SkH_ZHfgWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-<font color="#ED852E">Para inscripción de grupos de 10 o más personas se tendrá un descuento del 10%.</font>
+<font color="#15C987">Nota: para inscripción de grupos de 10 o más personas se tendrá un descuento del 10%.</font>
 
-### <font color="#0F4D8A">2. Realizar la inscripción.</font>
+# 2. Realizar la inscripción.
 
 2.1. Ingresar [a este link](https://hermesextension.unal.edu.co/ords/f?p=116:22:109654428868848::NO:RP,22:P22_ID_PROYECTO,AI_ALUMNO_CURSO:19168,&cs=1QoNFiLfgCFl0NPpT1S42H2S9jmo) de inscripción.
 
