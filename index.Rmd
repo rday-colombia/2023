@@ -18,6 +18,7 @@ title: "Rday Medellín"
 </center>
 
 <br/>
+<br/>
 
 <center>
 Para visitar nuestra página en inglés
@@ -28,14 +29,15 @@ Para visitar nuestra página en inglés
 
 <center>
 Organizan  
-<img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="450" height="450">
+<img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="550" height="100">
 </center>
 
 <br/>
+<br/>
 
 <center>
-Apoya  
-<img src="imagenes/uninorte.png" alt="uninorte" width="250" height="250">
+Apoyan  
+<img src="imagenes/apoyan.png" alt="Universidades que apoya" width="670" height="230">
 </center>
 
 
