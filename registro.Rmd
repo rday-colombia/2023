@@ -22,9 +22,9 @@ Abajo hay un video ilustrativo de como realizar el pago.
 
 <font color="#15C987">Nota: para inscripción de grupos de 10 o más personas se tendrá un descuento del 10%.</font>
 
-# 2. Realizar la inscripción.
+# 2. Realizar la preinscripción.
 
-2.1. Ingresar [a este link](https://hermesextension.unal.edu.co/ords/f?p=116:22:109654428868848::NO:RP,22:P22_ID_PROYECTO,AI_ALUMNO_CURSO:19168,&cs=1QoNFiLfgCFl0NPpT1S42H2S9jmo) de inscripción.
+2.1. Ingresar [a este link](https://hermesextension.unal.edu.co/ords/f?p=116:22:109654428868848::NO:RP,22:P22_ID_PROYECTO,AI_ALUMNO_CURSO:19168,&cs=1QoNFiLfgCFl0NPpT1S42H2S9jmo) de preinscripción.
 
 2.2. Escribir su documento de identificación.
 
@@ -32,7 +32,11 @@ Abajo hay un video ilustrativo de como realizar el pago.
 
 2.4. Recibirá al correo registrado un usuario y una contraseña para ingresar nuevamente a la plataforma. Por favor siga las instrucciones indicadas en el correo y adjunte el __comprobante de pago__ del evento.
 
-Es importante que siga la totalidad de los pasos para culminar la inscripción.
+Es importante que siga la totalidad de los pasos para culminar la presinscripción. Abajo hay un video ilustrativo de como realizar la preinscripción y como subir el recibo de pago.
+
+<center>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/BRfTsQ3FsFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 Cualquier inquietud no dude en escribirnos.
 
