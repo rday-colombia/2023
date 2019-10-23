@@ -17,7 +17,7 @@ La inscripción tiene un valor de $100.000. El pago se debe realizar en forma vi
 Abajo hay un video ilustrativo de como realizar el pago.
 
 <center>
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/6SkH_ZHfgWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="300" src="https://www.youtube.com/embed/6SkH_ZHfgWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <font color="#15C987">Nota: para inscripción de grupos de 10 o más personas se tendrá un descuento del 10%.</font>
@@ -35,7 +35,7 @@ Abajo hay un video ilustrativo de como realizar el pago.
 Es importante que siga la totalidad de los pasos para culminar la presinscripción. Abajo hay un video ilustrativo de como realizar la preinscripción y como subir el recibo de pago.
 
 <center>
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/BRfTsQ3FsFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="300" src="https://www.youtube.com/embed/BRfTsQ3FsFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Cualquier inquietud no dude en escribirnos.
