@@ -28,7 +28,7 @@ navbar:
     - text: "Código de conducta"
       href: conducta.html
     - text: "FAQ"
-      href: FAQ.html
+      href: faq.html
   right:
   - icon: fa-twitter
     href: https://twitter.com/MedellinRday
