@@ -25,6 +25,8 @@ navbar:
       href: comites.html
     - text: "Divulgación"
       href: divulgacion.html
+    - text: "temporal"
+      href: fechas.html
     - text: "Código de conducta"
       href: conducta.html
   right:
