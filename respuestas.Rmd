@@ -15,6 +15,8 @@ Para consultar las memorias del evento visite [este enlace](https://github.com/r
 
 Para descargar su certificado visite [este enlace](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/Certificados/Certificado%20asistencia.pdf).
 
+<br/>
+
 ## ¿Dónde puedo encontrar los certificados de ponencia?
 
 Para descargar su certificado visite [este enlace](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/Certificados/Certificado%20ponencia.pdf).
