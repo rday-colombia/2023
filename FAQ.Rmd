@@ -4,11 +4,15 @@ title: "FAQ (Frequently Asked Questions)"
 
 Abajo se encuentran las respuestas a las preguntas más frecuentes.
 
-# ¿Dónde puedo encontrar las Memorias del evento?
+<br>
+
+## ¿Dónde puedo encontrar las Memorias del evento?
 
 Para consultar las memorias del evente visite [este enlace](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/Memorias/Memorias_Rday_Medellin.pdf).
 
-# ¿Dónde puedo encontrar los certificados de asistencia al evento?
+<br>
+
+## ¿Dónde puedo encontrar los certificados de asistencia al evento?
 
 Para consultar las memorias del evente visite [este enlace](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/Memorias/Memorias_Rday_Medellin.pdf).
 
