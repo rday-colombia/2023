@@ -11,4 +11,5 @@ title: "Fechas importantes"
 | Fin de las inscripciones                                           | <strike>18/10/2019</strike> <font color="#F41C0A">07/11/2019</font> |
 
 ...
-Fin
+Fin del evento
+
