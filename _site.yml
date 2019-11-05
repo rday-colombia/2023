@@ -27,7 +27,7 @@ navbar:
       href: divulgacion.html
     - text: "Código de conducta"
       href: conducta.html
-    - text: "FAQ"
+    - text: "hola"
       href: comites.html
   right:
   - icon: fa-twitter
