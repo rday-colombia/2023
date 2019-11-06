@@ -43,12 +43,10 @@ Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificació
 A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
 
 - Los trabajos sometidos **deben** tener [este formato](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019/Plantilla_trabajos_Rday.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019.zip).
-- Para las diapositivas se recomienda usar [este formato](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019/Plantilla_presentacion_Rday_2019.pdf) y los archivos para crear las diapositivas se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019.zip). Si usted desea usar otro formato puede hacerlo, no hay problema.
-- El formato para el póster es libre pero debe ser en <font color="#ED852E">orientación vertical</font> con las dimensiones sugeridas en la siguiente figura.
+- Las diapositivas se pueden crear usando Beamer desde R y [aquí hay una muestra](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019/Plantilla_presentacion_Rday_2019.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019.zip). 
+- Las diapositivas también se pueden crear usando ioslides desde R y [aquí hay una muestra](https://rpubs.com/fhernanb/example_ioslides), los archivos para crear las diapositivas se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_ioslides_Rday_2019.zip).
+- Si usted desea usar otro formato puede hacerlo, no hay problema.
 
-<center>
-<img src="imagenes/tamano_poster.png" alt="poster" width="450" height="450">
-</center>
 
 ## Memorias
 Todos los trabajos presentados (comunicaciones y pósteres) serán incluídos en las [memorias](https://rdaymedellin.github.io/documentos/Memorias/Memorias_Rday_Medellin.pdf) del evento.
