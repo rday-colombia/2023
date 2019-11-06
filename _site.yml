@@ -19,6 +19,8 @@ navbar:
       href: registro.html
     - text: "Trabajos"
       href: trabajos.html
+    - text: "Temporal"
+      href: trabajos.html
     - text: "Fechas"
       href: fechas.html
     - text: "Comité"
