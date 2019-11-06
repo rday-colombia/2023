@@ -19,8 +19,6 @@ navbar:
       href: registro.html
     - text: "Trabajos"
       href: trabajos.html
-    - text: "Temporal"
-      href: trabajos.html
     - text: "Fechas"
       href: fechas.html
     - text: "Comité"
@@ -29,6 +27,8 @@ navbar:
       href: divulgacion.html
     - text: "Código de conducta"
       href: conducta.html
+    - text: "Temporal"
+      href: respuestas.html
   right:
   - icon: fa-twitter
     href: https://twitter.com/MedellinRday
