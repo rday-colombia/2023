@@ -5,36 +5,42 @@ Abajo se encuentran las respuestas a las preguntas más frecuentes.
 
 <br/>
 
-### ¿Dónde puedo encontrar las memorias del evento?
+## ¿Dónde puedo encontrar las Memorias del evento?
 
 Para consultar las memorias del evento visite [este enlace](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/Memorias/Memorias_Rday_Medellin.pdf).
 
 <br/>
 
-### ¿Dónde puedo encontrar los certificados de asistencia?
+## ¿Dónde puedo encontrar los certificados de asistencia al evento?
 
-Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_asistencia.pdf).
-
-<br/>
-
-### ¿Dónde puedo encontrar los certificados de ponencia?
-
-Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_ponencia.pdf).
+Para descargar su certificado visite [este enlace](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/Certificados/Certificado%20asistencia.pdf).
 
 <br/>
 
-### ¿Dónde puedo encontrar los certificados de tutoriales?
+## ¿Dónde puedo encontrar los certificados de ponencia?
 
-Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_tutorial.pdf).
-
-<br/>
-
-### ¿Dónde puedo encontrar el material de los tutoriales?
-
-Para consultar el material de los tutoriales visite [este enlace](https://github.com/rdaymedellin/tutoriales_Rday_2019).
+Para descargar su certificado visite [este enlace](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/Certificados/Certificado%20ponencia.pdf).
 
 <br/>
 
-### ¿Dónde puedo ver las fotos del Rday Medellín?
+## ¿Cómo puedo solicitar la factura de pago por inscripción al evento?
 
-Para ver las fotos visite [este enlace](https://www.flickr.com/groups/14679496@N23).
+Se debe escribir un correo al auxiliar administrativo Santiago Villa fcauxasis_med@unal.edu.co adjuntando los siguientes documentos:
+
+1. Comprobante de pago
+2. Copia del RUT
+3. Formato de creación de terceros diligenciado [disponible aquí]().
+
+<br/>
+
+<hr>
+
+A continuación respuestas a otras preguntas menos frecuentes.
+
+### ¿Se van a entregar impresos los certificados?
+
+No. En caso de necesitarlo usted lo puede imprimir.
+
+### ¿Hasta cuando estarán disponibles los certificados y material de los tutoriales?
+
+Hasta siempre, cuando usted los necesite puede consultarlos.
