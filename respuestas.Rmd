@@ -25,7 +25,7 @@ Para descargar su certificado visite [este enlace](https://rdaymedellin.github.i
 
 ### ¿Dónde puedo encontrar los certificados de tutoriales?
 
-Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_tutoriales.pdf).
+Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_tutorial.pdf).
 
 <br/>
 
