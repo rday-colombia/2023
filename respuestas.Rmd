@@ -5,6 +5,12 @@ Abajo se encuentran las respuestas a las preguntas más frecuentes.
 
 <br/>
 
+## ¿Dónde puedo encontrar la programación de las comunicaciones 🎤?
+
+Para consultar la programación de las comunicaciones visite [este enlace](https://rdaymedellin.github.io/documentos/Programacion_comunicaciones.pdf).
+
+<br/>
+
 ## ¿Dónde puedo encontrar las Memorias del evento 📓?
 
 Para consultar las memorias del evento visite [este enlace](https://rdaymedellin.github.io/documentos/Memorias/Memorias_Rday_Medellin.pdf).
