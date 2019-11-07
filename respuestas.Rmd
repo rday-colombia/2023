@@ -5,7 +5,7 @@ Abajo se encuentran las respuestas a las preguntas más frecuentes.
 
 <br/>
 
-## ¿Dónde puedo encontrar las Memorias del evento?
+## ¿Dónde puedo encontrar las Memorias del evento 📓?
 
 Para consultar las memorias del evento visite [este enlace](https://rdaymedellin.github.io/documentos/Memorias/Memorias_Rday_Medellin.pdf).
 
@@ -26,6 +26,12 @@ Para descargar su certificado visite [este enlace](https://rdaymedellin.github.i
 ## ¿Dónde puedo encontrar los certificados de tutorial?
 
 Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_tutorial.pdf).
+
+<br/>
+
+## ¿Dónde puedo encontrar las fotos del evento 📷 ?
+
+Para ver las fotos del evento visite [este enlace](https://www.flickr.com/groups/14679496@N23/). El grupo de flickr es libre así que usted también puede subir sus fotos del evento.
 
 <br/>
 
