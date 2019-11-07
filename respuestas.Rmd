@@ -29,18 +29,16 @@ Se debe escribir un correo al auxiliar administrativo Santiago Villa fcauxasis_m
 
 1. Comprobante de pago
 2. Copia del RUT
-3. Formato de creación de terceros diligenciado [disponible aquí]().
+3. Formato de creación de terceros diligenciado [disponible aquí](https://github.com/rdaymedellin/rdaymedellin.github.io/blob/master/documentos/creacion_terceros.pdf).
 
 <br/>
 
-<hr>
-
-A continuación respuestas a otras preguntas menos frecuentes.
-
-### ¿Se van a entregar impresos los certificados?
+## ¿Se van a entregar impresos los certificados?
 
 No. En caso de necesitarlo usted lo puede imprimir.
 
-### ¿Hasta cuando estarán disponibles los certificados y material de los tutoriales?
+<br/>
+
+## ¿Hasta cuando estarán disponibles los certificados y material de los tutoriales?
 
 Hasta siempre, cuando usted los necesite puede consultarlos.
