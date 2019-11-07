@@ -16,7 +16,7 @@ navbar:
         icon: fa-map-marker
         href: lugar.html
     - text: "Registro"
-      href: registro.html
+      href: fin_inscripciones.html
     - text: "Trabajos"
       href: trabajos.html
     - text: "Fechas"
