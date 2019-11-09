@@ -4,7 +4,7 @@ title: "Rday Medellín"
 
 <h2> </h2>
 
-<img src="imagenes/medellin_esp.png" alt="Panorama">
+<img src="imagenes/foto_recuerdo.jpg" alt="Panorama">
 
 <font size="5">
 <p align="justify">Rday es un evento que ha tenido un impacto positivo en la comunidad científica y empresarial debido a la versatilidad del lenguaje de programación R. Este evento se ha realizado en diferentes ciudades del mundo, en esta ocasión se realizará por primera vez en Medellín. Con el Rday queremos integrar la comunidad de usuarios de R en la ciudad de Medellín y llamar la atención de quienes aún no lo conocen.</p>
