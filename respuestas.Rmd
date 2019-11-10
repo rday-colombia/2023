@@ -22,7 +22,7 @@ Para consultar el material de los tutoriales visite [este enlace](https://github
 ## ¿Dónde puedo encontrar los videos de las conferencias 🎥?
 
 1. [R 4 All - Welcoming and inclusive practices for teaching R](https://youtu.be/YUYKA99CNR4) by Mine Çetinkaya.
-2. [Deep Learning for Everyone]() - Gabriela de Queiroz.
+2. [Deep Learning for Everyone](https://youtu.be/sehUi0kpav0) - Gabriela de Queiroz.
 
 <br/>
 
