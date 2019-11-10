@@ -5,9 +5,24 @@ Abajo se encuentran las respuestas a las preguntas más frecuentes.
 
 <br/>
 
-## ¿Dónde puedo encontrar la programación de las comunicaciones 🎤?
+## ¿Dónde puedo encontrar los tutoriales 💻?
 
-Para consultar la programación de las comunicaciones visite [este enlace](https://rdaymedellin.github.io/documentos/Programacion_comunicaciones.pdf).
+Para consultar el material de los tutoriales visite [este enlace](https://github.com/rdaymedellin/tutoriales_Rday_2019).
+
+<br/>
+
+## ¿Dónde puedo encontrar los slides de las conferencias 🎤?
+
+1. [R 4 All - Welcoming and inclusive practices for teaching R](https://speakerdeck.com/minecr/r4all-welcoming-plus-inclusive-practices-for-teaching-r-b1f4cbcf-64af-4110-94f7-c465020add1d) by Mine Çetinkaya.
+2. [Deep Learning for Everyone](https://speakerdeck.com/kroz/deep-learning-for-everyone-rday-medellin) - Gabriela de Queiroz.
+3. Statistics in the Genomic Era: where we were, where we are and where we want to be - Jorge Iván Vélez.
+
+<br/>
+
+## ¿Dónde puedo encontrar los videos de las conferencias 🎥?
+
+1. [R 4 All - Welcoming and inclusive practices for teaching R](https://youtu.be/YUYKA99CNR4) by Mine Çetinkaya.
+2. [Deep Learning for Everyone]() - Gabriela de Queiroz.
 
 <br/>
 
