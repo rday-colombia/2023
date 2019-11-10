@@ -34,7 +34,7 @@ Para consultar las memorias del evento visite [este enlace](https://rdaymedellin
 
 ## ¿Dónde puedo encontrar los certificados de asistencia al evento?
 
-Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_asistencia.pdf).
+Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_asistencia.pdf). <font color="#ff7aa4">Estarán disponibles el martes 12 de noviembre</font>.
 
 <br/>
 
