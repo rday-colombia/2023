@@ -14,7 +14,7 @@ title: "Rday Medellín"
 <br/>
 
 <center>
-<iframe style="max-width: 70%;" src="https://www.youtube.com/embed/XcBLEVknqvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 80%;" src="https://www.youtube.com/embed/XcBLEVknqvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <br/>
@@ -24,7 +24,7 @@ title: "Rday Medellín"
 Organizan  
 
 <img src="imagenes/auxiliar.png" 
-     style="max-width: 70%;" />
+     style="max-width: 80%;" />
      
 </center>
 
