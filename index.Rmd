@@ -22,7 +22,7 @@ title: "Rday Medellín"
 
 <center>
 Organizan  
-<img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="1050" height="100">
+<img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="1050" height="300">
 </center>
 
 <br/>

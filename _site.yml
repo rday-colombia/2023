@@ -36,7 +36,7 @@ navbar:
     href: https://github.com/rdaymedellin
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     includes:
       after_body: footer.html
       in_header: header.html
