@@ -7,6 +7,6 @@ Para conocer sobre Medellín se recomienda visitar [https://medellin.travel](htt
 <br/>
 
 <center>
-<iframe style="max-width: 80%;" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
