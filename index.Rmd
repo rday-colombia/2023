@@ -13,8 +13,10 @@ title: "Rday Medellín"
 
 <br/>
 
+
+
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XcBLEVknqvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 50%;" src="https://www.youtube.com/embed/XcBLEVknqvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <br/>
@@ -22,10 +24,14 @@ title: "Rday Medellín"
 
 <center>
 Organizan  
+
 <img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="1050" height="300">
 
 <img src="https://ik.imagekit.io/ikmedia/backlit.jpg" 
      style="max-width: 100%;" />
+     
+<img src="imagenes/auxiliar.png" 
+     style="max-width: 50%;" />
      
 </center>
 
