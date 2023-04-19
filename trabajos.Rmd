@@ -1,13 +1,6 @@
 ---
 title: "Sometimiento de trabajos"
 ---
-<center>
-<span style="background-color: #D7FAC8">
-La recepción de trabajos ha finalizado, muchas gracias por participar.
-</span>
-</center>
-
-<br/>
 
 Son bienvenidos todos los trabajos en los cuales se haya <font color="#ED852E">usado R en la metodología</font> del mismo. La presentación de los trabajos se puede realizar de dos formas:
 
@@ -49,5 +42,5 @@ A continuación se encuentran los formatos sugeridos para la elaboración de los
 
 
 ## Memorias
-Todos los trabajos presentados (comunicaciones y pósteres) serán incluídos en las [memorias](https://rdaymedellin.github.io/documentos/Memorias/Memorias_Rday_Medellin.pdf) del evento.
+Todos los trabajos presentados (comunicaciones y pósteres) serán incluídos en las memorias.
 
