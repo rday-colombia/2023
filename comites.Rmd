@@ -1,5 +1,5 @@
 ---
-title: "Comité"
+title: "Comités"
 ---
 
 <br/>
@@ -17,8 +17,6 @@ title: "Comité"
 - [Carlos Mario Lopera](http://ciencias.medellin.unal.edu.co/index.php/component/teachers/?option=com_teachers&escuela=Escuela%20de%20Estad%C3%ADstica&letra=&correo=cmlopera@unal.edu.co)
 - [Diana Marcela Pérez Valencia](http://www.bcamath.org/en/people/dperez)
 - [Ana María Gómez Lamus](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001543347)
-- [Olga Usuga](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000942065)
-- [Freddy Hernández](https://fhernanb.github.io/)
 
 
 <br/>
