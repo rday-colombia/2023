@@ -2,11 +2,11 @@
 title: "Fechas importantes"
 ---
 
-| Actividad                                  |   Fecha    |
-|--------------------------------------------|------------|
-| Inicio del sometimiento de trabajos        | 01/06/2023 |
-| Fin del sometimiento de trabajos           | 31/10/2023 |
-| Notificación de aceptación                 | 30/09/2023 |
-| Inicio de inscripciones                    | 01/06/2023 |
-| Fin de las inscripciones                   | 15/11/2023 |
-| Rday                                       | 24/11/2023 |
+| Actividad                           | Fecha      |
+|-------------------------------------|------------|
+| Inicio del sometimiento de trabajos | 01/06/2023 |
+| Fin del sometimiento de trabajos    | 15/09/2023 |
+| Notificación de aceptación          | 15/10/2023 |
+| Inicio de inscripciones             | 01/06/2023 |
+| Fin de las inscripciones            | 04/11/2023 |
+| Rday                                | 24/11/2023 |
