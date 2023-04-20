@@ -9,4 +9,4 @@ title: "Fechas importantes"
 | Notificación de aceptación                 | 30/09/2023 |
 | Inicio de inscripciones                    | 01/06/2023 |
 | Fin de las inscripciones                   | 15/11/2023 |
-| Rday                                       | 01/12/2023 |
+| Rday                                       | 24/11/2023 |
