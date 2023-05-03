@@ -5,7 +5,7 @@ title: "Conferencistas"
 Estamos muy felices de presentar a los conferencistas del evento.
 
 <center>
-<img src="imagenes/bea_milz.jpeg" width="300" height="300" alt="">
+<img src="imagenes/bea_milz.png" width="300" height="300" alt="">
 
 [Beatriz Milz](https://beamilz.com)  
 Instructora certificada de tidyverse y profesora de [Curso-R](https://curso-r.com).  
