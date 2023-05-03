@@ -5,40 +5,11 @@ title: "Conferencistas"
 Estamos muy felices de presentar a los conferencistas del evento.
 
 <center>
-<img src="imagenes/gabriela.png" width="300" height="300" alt="">
+<img src="imagenes/bea_milz.jpeg" width="300" height="300" alt="">
 
-Gabriela de Queiroz  
-Founder & CEO  @R-Ladies  
-Sr. Developer Advocate (ML/DL/AI) @IBM  
-Data Scientist + Speaker + Mentor + Advisor  
-<a href="https://twitter.com/gdequeiroz"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://k-roz.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
+[Beatriz Milz](https://beamilz.com)  
+Instructora certificada de tidyverse y profesora de [Curso-R](https://curso-r.com).  
+<a href="https://twitter.com/BeaMilz"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://beamilz.com"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 
-<br>
-<br>
 
-<center>
-<img src="imagenes/mine.png" width="300" height="300" alt="">
-
-Mine Çetinkaya-Rundel  
-Senior Lecturer, University of Edinburgh  
-Data Scientist & Professional Educator, RStudio  
-Associate Professor of the Practice, Duke University  
-<a href="https://twitter.com/minebocek"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://www2.stat.duke.edu/~mc301/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
-</center>
-
-<br>
-<br>
-
-<center>
-<img src="imagenes/jorge_conf.png" width="300" height="300" alt="">
-
-Jorge I. Vélez  
-Profesor Asistente,  
-Departamento de Ingeniería Industrial  
-Universidad del Norte,  
-Barranquilla, Colombia  
-PhD in Medical Sciences (Genomics and Precision Medicine)  
-Australian National University, Canberra, Australia  
-<a href="https://jivelez.github.io/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
-</center>
