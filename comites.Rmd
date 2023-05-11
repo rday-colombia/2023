@@ -6,6 +6,7 @@ title: "Comités"
 
 ## Comité organizador
 - [Olga Usuga](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000942065)
+- [Carmen Patiño](https://www.udea.edu.co/)
 - [Catalina Ospina](https://www.unad.edu.co/)
 - [Romario Conto](https://www.itm.edu.co/)
 - [Freddy Hernández](https://fhernanb.github.io/)
