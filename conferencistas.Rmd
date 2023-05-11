@@ -5,21 +5,25 @@ title: "Conferencistas"
 Estamos muy felices de presentar a los conferencistas del evento.
 
 <center>
-<img src="imagenes/bea_milz.png" width="300" height="300" alt="">
+<img src="imagenes/bea_milz.png" width="300" height="300" alt="">  
 [Beatriz Milz](https://beamilz.com)  
 Instructora certificada de tidyverse y profesora de [Curso-R](https://curso-r.com).  
 <a href="https://twitter.com/BeaMilz"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://beamilz.com"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 
-<center>
-<img src="imagenes/miguel_sorrel.png" width="300" height="300" alt="">
-[Miguel A. Sorrel](https://miguel-sorrel.github.io/personal_site/index.html)  
-Assistant Professor in Methodology at the Autonomous University of Madrid.  
-<a href="https://twitter.com/MigSorrel"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://miguel-sorrel.github.io/personal_site/index.html"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
-</center>
+<br>
 
 <center>
-<img src="imagenes/paula_moraga.png" width="300" height="300" alt="">
+<img src="imagenes/miguel_sorrel.PNG" width="300" height="300" alt="">  
+[Miguel A. Sorrel](https://miguel-sorrel.github.io/personal_site)  
+Assistant Professor in Methodology at the Autonomous University of Madrid.  
+<a href="https://twitter.com/MigSorrel"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://miguel-sorrel.github.io/personal_site"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
+</center>
+
+<br>
+
+<center>
+<img src="imagenes/paula_moraga.png" width="300" height="300" alt="">  
 [Paula Moraga](https://www.paulamoraga.com/)  
 Assistant Professor of Statistics at King Abdullah University of Science and Technology (KAUST).  
 <a href="https://twitter.com/Paula_Moraga_"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://www.paulamoraga.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>

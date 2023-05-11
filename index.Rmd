@@ -9,6 +9,8 @@ title: "Rday Medellín"
 <font size="4">
 <p align="justify">Rday es un evento que ha tenido un impacto positivo en la comunidad científica y empresarial debido a la versatilidad del lenguaje de programación R para estadística y ciencia de datos. Este evento se ha realizado en diferentes ciudades del mundo, y en esta ocasión, se realizará por segunda vez en Medellín de forma **presencial**. Con el Rday queremos integrar la comunidad de usuarios de R en la ciudad de Medellín y llamar la atención de quienes aún no lo conocen.</p>
 
+[En este enlace](https://rdaymedellin.github.io/rday2019/index.html) usted podrá curiosear el Rday realizado en el año 2019.
+
 </font>
 
 <br/>

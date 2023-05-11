@@ -9,11 +9,11 @@ title: "Comités"
 - [Catalina Ospina](https://www.unad.edu.co/)
 - [Romario Conto](https://www.itm.edu.co/)
 - [Freddy Hernández](https://fhernanb.github.io/)
+- [Jorge Iván Vélez](https://jorgeivanvelez.netlify.app/)
 
 <br/>
 
 ## Comité científico
-- [Jorge I Vélez](https://www.uninorte.edu.co/web/ingenieria-industrial/nuestros-docentes?p_p_id=InformacionDocenteUninorte2_WAR_InformacionDocenteV3&docenteID=71365457)
 - [Carlos Mario Lopera](http://ciencias.medellin.unal.edu.co/index.php/component/teachers/?option=com_teachers&escuela=Escuela%20de%20Estad%C3%ADstica&letra=&correo=cmlopera@unal.edu.co)
 - [Diana Marcela Pérez Valencia](http://www.bcamath.org/en/people/dperez)
 - [Ana María Gómez Lamus](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001543347)

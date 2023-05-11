@@ -17,8 +17,8 @@ navbar:
         href: lugar.html
     - text: "Fechas"
       href: fechas.html
-    - text: "Trabajos"
-      href: trabajos.html
+#    - text: "Trabajos"
+#      href: trabajos.html
 #   - text: "Registro"
 #      href: fin_inscripciones.html
     - text: "Comités"
