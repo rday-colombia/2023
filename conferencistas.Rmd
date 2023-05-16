@@ -29,6 +29,8 @@ Assistant Professor of Statistics at King Abdullah University of Science and Tec
 <a href="https://twitter.com/Paula_Moraga_"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://www.paulamoraga.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 
+<br>
+
 <center>
 <img src="imagenes/walmes_zeviani.png" width="300" height="300" alt="">  
 [Walmes Zeviani](http://leg.ufpr.br/~walmes/home/)  
