@@ -6,7 +6,7 @@ Todos en nuestro evento deben estar de acuerdo con el siguiente código de condu
 <P>
 
 # ¿Necesita ayuda?
-Si tiene alguna duda sobre el evento puede escribir a los correos electrónicos rdaymedellin@gmail.com o fhernanb@unal.edu.co
+Si tiene alguna duda sobre el evento puede escribir a los correos electrónicos rdaymedellin@gmail.com.
 
 # Versión corta
 <P ALIGN="justify">
