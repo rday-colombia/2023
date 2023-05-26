@@ -10,7 +10,7 @@ title: "Comités"
 - [Catalina Ospina](https://www.unad.edu.co/)
 - [Romario Conto](https://www.itm.edu.co/)
 - [Freddy Hernández](https://fhernanb.github.io/)
-- [Jorge Iván Vélez](https://jorgeivanvelez.netlify.app/)
+- [Jorge Vélez](https://jorgeivanvelez.netlify.app/)
 
 <br/>
 
