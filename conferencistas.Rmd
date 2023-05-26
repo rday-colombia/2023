@@ -38,4 +38,13 @@ Assistant Professor of Statistics at UFPR & R programmer, Curitiba, Brazil.
 <a href="https://twitter.com/walmeszeviani"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="http://leg.ufpr.br/~walmes/home/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 
+<br>
+
+<center>
+<img src="imagenes/jorge_conf.png" width="300" height="300" alt="">  
+[Jorge Iván Vélez](https://jorgeivanvelez.netlify.app/)  
+Assistant Professor of Data Analytics and Genomics at the Department of Industrial Engineering, Universidad del Norte, Barranquilla, Colombia.  
+<a href="https://jorgeivanvelez.netlify.app/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
+</center>
+
 
