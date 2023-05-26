@@ -7,6 +7,8 @@ navbar:
       href: programa.html
     - text: "Conferencistas"
       href: conferencistas.html
+    - text: "Tutoriales"
+      href: tutoriales.html
     - text: "Lugar"
       menu:
       - text: Medellín
