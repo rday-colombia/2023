@@ -2,11 +2,19 @@
 title: "Fechas importantes"
 ---
 
+## Para las inscripciones
+
 | Actividad                           | Fecha      |
 |-------------------------------------|------------|
-| Inicio del sometimiento de trabajos | 01/06/2023 |
-| Fin del sometimiento de trabajos    | 15/09/2023 |
-| Notificación de aceptación          | 15/10/2023 |
+| Pre-inscripción                     | 07/06/2023 |
 | Inicio de inscripciones             | 01/06/2023 |
 | Fin de las inscripciones            | 04/11/2023 |
-| Rday                                | 24/11/2023 |
+| R Day                               | 24/11/2023 |
+
+## Para someter los trabajos
+
+| Actividad                           | Fecha      |
+|-------------------------------------|------------|
+| Inicio del sometimiento de trabajos | 15/06/2023 |
+| Fin del sometimiento de trabajos    | 15/09/2023 |
+| Notificación de aceptación          | 15/10/2023 |
