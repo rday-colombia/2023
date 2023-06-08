@@ -5,19 +5,24 @@ title: "Comités"
 <br/>
 
 ## Comité organizador
-- [Olga Usuga](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000942065)
-- [Carmen Patiño](https://www.udea.edu.co/)
-- [Catalina Ospina](https://www.unad.edu.co/)
-- [Romario Conto](https://www.itm.edu.co/)
-- [Freddy Hernández](https://fhernanb.github.io/)
-- [Jorge Vélez](https://jorgeivanvelez.netlify.app/)
+- [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/)
+- [Carmen Elena Patiño Rodríguez](https://www.meetup.com/es/rladies-medellin/)
+- [Martha Catalina Ospina Hernández](https://www.unad.edu.co/)
+- [Romario Ademir Conto López](https://www.itm.edu.co/)
+- [Freddy Hernández Barajas](https://fhernanb.github.io/)
+- [Jorge I. Vélez](https://jorgeivanvelez.netlify.app/)
 
 <br/>
 
 ## Comité científico
-- [xxxx](https://rday-colombia.github.io/2023)
-- [xxxx](https://rday-colombia.github.io/2023)
-- [xxxx](https://rday-colombia.github.io/2023)
+- [David Rodríguez Guevara](https://www.itm.edu.co/)
+- [Jonathan Cano Bedoya](https://www.itm.edu.co/)
+- [Diana Marcela Pérez Valencia](https://www.ehu.eus/es/home)
+- [Jessica María Rojas Mora](https://www.itm.edu.co/)
+- [Sara Garces Cespedes](https://www.meetup.com/es/rladies-medellin/)
+- [Maria Valentina Clavijo Mesa](https://www.meetup.com/es/rladies-medellin/)
+- [Luz Marcela Restrepo Tamayo](https://udemedellin.edu.co/)
+- [Eddy Herrera Daza](https://www.javeriana.edu.co/inicio)
 
 <br/>
 

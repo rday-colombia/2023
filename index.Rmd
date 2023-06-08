@@ -1,5 +1,5 @@
 ---
-title: "R Day - 2023"
+title: "R Day - Segundo encuentro nacional de usuarios de R"
 ---
 
 <h2> </h2>

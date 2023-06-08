@@ -21,8 +21,8 @@ navbar:
       href: fechas.html
 #    - text: "Trabajos"
 #      href: trabajos.html
-#   - text: "Registro"
-#      href: fin_inscripciones.html
+    - text: "Inscripciones"
+      href: inscripciones.html
     - text: "Comités"
       href: comites.html
 #    - text: "Divulgación"
@@ -33,9 +33,11 @@ navbar:
 #      href: respuestas.html
   right:
   - icon: fa-twitter
-    href: https://twitter.com/MedellinRday
+    href: https://twitter.com/rdaycolombia
   - icon: fa-github
-    href: https://github.com/rdaymedellin
+    href: https://github.com/rday-colombia
+  - icon: fa-instagram
+    href: https://www.instagram.com/rdaycolombia/
 output:
   html_document:
     theme: flatly
