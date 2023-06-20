@@ -22,18 +22,13 @@ El proceso para someter un trabajo es el siguiente:
 
 Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptacióno o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5onax2i6VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
 <br/>
 
 ## Formatos sugeridos
 A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
 
-- Los trabajos sometidos **deben** tener [este formato](https://github.com/rday-colombia/Plantillas/blob/master/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019.zip).
-- Las diapositivas se pueden crear usando Beamer desde R y [aquí hay una muestra](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019/Plantilla_presentacion_Rday_2019.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019.zip). 
-- Las diapositivas también se pueden crear usando ioslides desde R y [aquí hay una muestra](https://rpubs.com/fhernanb/example_ioslides), los archivos para crear las diapositivas se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_ioslides_Rday_2019.zip).
+- Los trabajos sometidos **deben** tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip).
+- Las diapositivas se pueden crear usando Beamer desde R y [aquí hay una muestra](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day/Plantilla_presentacion_R_Day.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day.zip). 
 - Si usted desea usar otro formato puede hacerlo, no hay problema.
 
 
