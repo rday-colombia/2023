@@ -7,24 +7,20 @@ Son bienvenidos todos los trabajos en los cuales se haya <font color="#ED852E">u
 - Póster (60 minutos).
 - Comunicación (10 minutos para presentación y 5 minutos para preguntas).
 
-El sometimiento de trabajos para el Rday se realiza únicamente por medio de la herramienta [EasyChair](https://easychair.org/).
+El sometimiento de trabajos para el R Day se realizará por medio de la herramienta [OpenReview](https://openreview.net/group?id=RDay/2023/Conference).
 
 ## Proceso
 
 El proceso para someter un trabajo es el siguiente:
 
-1. Visitar la página [https://easychair.org/conferences/?conf=rday2019](https://easychair.org/conferences/?conf=rday2019) y crear una cuenta o membresía.
-1. Visitar nuevamente la página [https://easychair.org/conferences/?conf=rday2019](https://easychair.org/conferences/?conf=rday2019) e ingresar con sus datos de cuenta.
-1. Dar clic en el hiperenlace __author__ para acceder como autor.
+1. Visitar la página [https://openreview.net/](https://openreview.net/) y crear una cuenta o membresía.
+1. Visitar en enlace [https://openreview.net/group?id=RDay/2023/Conference](https://openreview.net/group?id=RDay/2023/Conference) para ingresar al sistema de sometimiento de trabajos.
+1. Dar clic en el botón __RDay 2023 Conference Submission__.
 1. Dar clic en el botón __New submission__.
-1. Ingresar la información de cada uno de los autores y seleccionar el autor de correspondencia.
-1. Ingresar un título para el trabajo en el cajón __Title__.
-1. Ingresar un resumen del trabajo en el cajón __Abstract__.
-1. Escribir al menos tres (3) palabras clave en el cajón __Keywords__, una por renglón.
-1. Adjuntar su trabajo en formato pdf usando la plantilla exigida. Se recomienda que este archivo tenga un extensión máxima de cuatro (4) páginas.
-1. Oprimir el boton __Submit__ una sola vez para someter su trabajo.
+1. Ingresar la información solicitada.
+1. Oprimir el boton __Submit__ para someter su trabajo.
 
-Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptacióno o rechazo) de trabajos. Las fechas se encuentra [en este enlace](https://rdaymedellin.github.io/fechas.html).
+Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptacióno o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q5onax2i6VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,7 +31,7 @@ Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificació
 ## Formatos sugeridos
 A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
 
-- Los trabajos sometidos **deben** tener [este formato](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019/Plantilla_trabajos_Rday.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019.zip).
+- Los trabajos sometidos **deben** tener [este formato](https://github.com/rday-colombia/Plantillas/blob/master/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_trabajos_Rday_2019.zip).
 - Las diapositivas se pueden crear usando Beamer desde R y [aquí hay una muestra](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019/Plantilla_presentacion_Rday_2019.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_presentacion_Rday_2019.zip). 
 - Las diapositivas también se pueden crear usando ioslides desde R y [aquí hay una muestra](https://rpubs.com/fhernanb/example_ioslides), los archivos para crear las diapositivas se encuentran [en este enlace](https://rdaymedellin.github.io/documentos/Plantilla_ioslides_Rday_2019.zip).
 - Si usted desea usar otro formato puede hacerlo, no hay problema.
