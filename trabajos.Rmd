@@ -7,7 +7,7 @@ Son bienvenidos todos los trabajos en los cuales se haya <font color="#ED852E">u
 - Póster (60 minutos).
 - Comunicación (10 minutos para presentación y 5 minutos para preguntas).
 
-El sometimiento de trabajos para el R Day se realizará por medio de la herramienta [OpenReview](https://openreview.net/group?id=RDay/2023/Conference).
+El sometimiento de trabajos para el R Day se realizará por medio de la herramienta OpenReview.
 
 ## Proceso
 
