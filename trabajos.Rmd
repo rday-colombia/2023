@@ -2,36 +2,26 @@
 title: "Sometimiento de trabajos"
 ---
 
-Son bienvenidos todos los trabajos en los cuales se haya <font color="#ED852E">usado R en la metodología</font> del mismo. La presentación de los trabajos se puede realizar de dos formas:
+Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación R. La forma de presentar los trabajos será por medio de comunicaciones (presentaciones) cortas.
 
-- Póster (60 minutos).
-- Comunicación (10 minutos para presentación y 5 minutos para preguntas).
+## Pasos
+El sometimiento de trabajos para comunicaciones se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
 
-El sometimiento de trabajos para el R Day se realizará por medio de la herramienta OpenReview.
-
-## Proceso
-
-El proceso para someter un trabajo es el siguiente:
-
-1. Visitar la página [https://openreview.net/](https://openreview.net/) y crear una cuenta o membresía.
-1. Visitar en enlace [https://openreview.net/group?id=RDay/2023/Conference](https://openreview.net/group?id=RDay/2023/Conference) para ingresar al sistema de sometimiento de trabajos.
-1. Dar clic en el botón __RDay 2023 Conference Submission__.
+1. Visitar la página [https://cmt3.research.microsoft.com/User/Login ](https://cmt3.research.microsoft.com/User/Login ) y crear una cuenta o membresía.
+1. Visitar en enlace [https://cmt3.research.microsoft.com/RDay2023](https://cmt3.research.microsoft.com/RDay2023) para ingresar al sistema de sometimiento de trabajos.
+1. Dar clic en el botón __Create new submission__.
 1. Dar clic en el botón __New submission__.
-1. Ingresar la información solicitada.
-1. Oprimir el boton __Submit__ para someter su trabajo.
+1. Ingresar la información solicitada y el documento del trabajo usando la plantilla oficial.
+1. Oprimir el botón __Submit__ para someter su trabajo.
 
-Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptacióno o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
+Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
 
-<br/>
+## Formatos
+A continuación se encuentran los formatos para la elaboración de los trabajos y la presentación.
 
-## Formatos sugeridos
-A continuación se encuentran los formatos sugeridos para la elaboración de los trabajos, el póster y la presentación.
-
-- Los trabajos sometidos **deben** tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear la propuesta se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip).
-- Las diapositivas se pueden crear usando Beamer desde R y [aquí hay una muestra](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day/Plantilla_presentacion_R_Day.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day.zip). 
-- Si usted desea usar otro formato puede hacerlo, no hay problema.
-
+- Los trabajos sometidos deben tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear el documento se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip).
+- Las diapositivas para las comunicaciones se deben crear usando Beamer desde R y [aquí hay una muestra](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day/Plantilla_presentacion_R_Day.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day.zip). 
 
 ## Memorias
-Todos los trabajos presentados (comunicaciones y pósteres) serán incluídos en las memorias.
+Todos los trabajos presentados serán incluídos en las memorias.
 
