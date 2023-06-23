@@ -7,8 +7,8 @@ Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaj
 ## Pasos
 El sometimiento de trabajos para comunicaciones se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
 
-1. Visitar la página [https://cmt3.research.microsoft.com/User/Login ](https://cmt3.research.microsoft.com/User/Login ) y crear una cuenta o membresía.
-1. Visitar en enlace [https://cmt3.research.microsoft.com/RDay2023](https://cmt3.research.microsoft.com/RDay2023) para ingresar al sistema de sometimiento de trabajos.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} y crear una cuenta o membresía.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2023){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
 1. Dar clic en el botón __Create new submission__.
 1. Dar clic en el botón __New submission__.
 1. Ingresar la información solicitada y el documento del trabajo usando la plantilla oficial.
@@ -29,3 +29,6 @@ A continuación se encuentran los formatos para la elaboración de los trabajos 
 
 ## Memorias
 Todos los trabajos presentados serán incluídos en las memorias.
+
+
+ 
