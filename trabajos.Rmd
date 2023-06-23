@@ -16,16 +16,16 @@ El sometimiento de trabajos para comunicaciones se realizará por medio de la he
 
 Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
 
+Abajo hay un video ilustrativo de los pasos 2 a 5.
+
+<iframe src="https://drive.google.com/file/d/1BsaFUZQw1ZZlLnB_pw2MrqffZNwiN9_x/preview" width="560" height="315" allow="autoplay"></iframe>
+
+
 ## Formatos
 A continuación se encuentran los formatos para la elaboración de los trabajos y la presentación.
 
 - Los trabajos sometidos deben tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear el documento se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip).
 - Las diapositivas para las comunicaciones se deben crear usando Beamer desde R y [aquí hay una muestra](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day/Plantilla_presentacion_R_Day.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day.zip). 
 
-Abajo hay un video ilustrativo de los pasos 2 a 5.
-
-<iframe src="https://drive.google.com/file/d/1BsaFUZQw1ZZlLnB_pw2MrqffZNwiN9_x/preview" width="560" height="315" allow="autoplay"></iframe>
-
 ## Memorias
 Todos los trabajos presentados serán incluídos en las memorias.
-
