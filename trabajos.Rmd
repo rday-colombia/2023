@@ -18,7 +18,7 @@ Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificació
 
 Abajo hay un video ilustrativo de los pasos 2 a 5.
 
-<iframe src="https://drive.google.com/file/d/1BsaFUZQw1ZZlLnB_pw2MrqffZNwiN9_x/preview" width="560" height="315" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1BsaFUZQw1ZZlLnB_pw2MrqffZNwiN9_x/preview" width="448" height="252" allow="autoplay"></iframe>
 
 
 ## Formatos
