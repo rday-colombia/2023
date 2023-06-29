@@ -18,8 +18,9 @@ Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificació
 
 Abajo hay un video ilustrativo de los pasos 2 a 5.
 
+<center>
 <iframe src="https://drive.google.com/file/d/1BsaFUZQw1ZZlLnB_pw2MrqffZNwiN9_x/preview" width="358" height="201" allow="autoplay"></iframe>
-
+</center>
 
 ## Formatos
 A continuación se encuentran los formatos para la elaboración de los trabajos y la presentación.
