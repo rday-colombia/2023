@@ -14,12 +14,6 @@ title: "R Day - Segundo encuentro nacional de usuarios de R"
 </font>
 
 <br/>
-
-<center>
-<iframe style="max-width: 80%;" src="https://www.youtube.com/embed/XcBLEVknqvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-<br/>
 <br/>
 
 <center>
