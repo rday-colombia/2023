@@ -34,7 +34,17 @@ Assistant Professor of Statistics at King Abdullah University of Science and Tec
 <center>
 <img src="imagenes/fotos_conferencistas/walmes_zeviani.png" width="300" height="300" alt="">  
 [Walmes Marques Zeviani](http://leg.ufpr.br/~walmes/home/)  
-Assistant Professor of Statistics at UFPR & R programmer, Curitiba, Brazil.  
+Assistant Professor of Statistics at UFPR & R programmer, Curitiba, Brasil.  
 <a href="https://twitter.com/walmeszeviani"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="http://leg.ufpr.br/~walmes/home/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
+
+<br>
+
+<center>
+<img src="imagenes/fotos_conferencistas/Riva.png" width="300" height="300" alt="">  
+[Riva Quiroga](https://rivaquiroga.cl/)  
+Linguista y amante de trabajar con datos, Valparaiso, Chile.  
+<a href="https://twitter.com/rivaquiroga"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://rivaquiroga.cl/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
+</center>
+
 
