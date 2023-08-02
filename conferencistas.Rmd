@@ -2,7 +2,7 @@
 title: "Conferencistas"
 ---
 
-Estamos muy felices de presentar a los conferencistas que nos acompañarán de __forma virtual__.
+Estamos muy felices de presentar a los conferencistas que nos acompañarán de __forma virtual__ en el R Day.
 
 <center>
 <img src="imagenes/fotos_conferencistas/bea_milz.png" width="300" height="300" alt="">  
