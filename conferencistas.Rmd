@@ -25,7 +25,7 @@ Assistant Professor in Methodology at the Autonomous University of Madrid.
 <center>
 <img src="imagenes/fotos_conferencistas/paula_moraga.png" width="300" height="300" alt="">  
 [Paula Moraga](https://www.paulamoraga.com/)  
-Assistant Professor of Statistics at King Abdullah University of Science and Technology (KAUST).  
+Assistant Professor of Statistics at King Abdullah University of Science and Technology (KAUST) xxxx.  
 <a href="https://twitter.com/Paula_Moraga_"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://www.paulamoraga.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 
