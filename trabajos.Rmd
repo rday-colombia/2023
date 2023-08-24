@@ -2,7 +2,10 @@
 title: "Sometimiento de trabajos"
 ---
 
-Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__. La forma de presentar los trabajos será por medio de comunicaciones o pósters.
+Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__, destacando los paquetes y funciones usadas.
+Si los trabajos incluyen gran cantidad de código, se recomienda colocarlo en un repositorio de GitHub.
+
+La forma de presentar los trabajos será por medio de comunicaciones o pósters.
 
 ## Pasos
 El sometimiento de trabajos para comunicaciones se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
