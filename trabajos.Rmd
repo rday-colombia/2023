@@ -2,8 +2,7 @@
 title: "Sometimiento de trabajos"
 ---
 
-Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__, destacando los paquetes y funciones usadas.
-Si los trabajos incluyen gran cantidad de código, se recomienda colocarlo en un repositorio de GitHub.
+Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__, se recomienda referenciar los paquetes y mencionar las funciones usadas. Si los trabajos incluyen gran cantidad de código, se recomienda colocarlo en un repositorio de GitHub.
 
 La forma de presentar los trabajos será por medio de comunicaciones o pósters.
 
