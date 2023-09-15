@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.15)  20 JUN 2023 16:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.15)  14 SEP 2023 20:38
 entering extended mode
 **./Plantilla_trabajos_R_Day.tex
 (Plantilla_trabajos_R_Day.tex
@@ -526,7 +526,7 @@ d.
  ) 
 Here is how much of TeX's memory you used:
  10405 strings out of 478927
- 154194 string characters out of 2862392
+ 154229 string characters out of 2862392
  470105 words of memory out of 3000000
  28047 multiletter control sequences out of 15000+600000
  443137 words of font info for 107 fonts, out of 8000000 for 9000
@@ -540,9 +540,9 @@ oaming/MiKTeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX/f
 onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/pal
 atino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Plantilla_trabajos_R_Day.pdf (5 pages, 1018907 bytes).
+Output written on Plantilla_trabajos_R_Day.pdf (5 pages, 1019290 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
+ 223 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)
  112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
