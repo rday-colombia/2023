@@ -14,6 +14,6 @@ El sometimiento de trabajos se realizará por medio de la herramienta CMT. A con
 1. Elejir si es comunicación o póster.
 1. Oprimir el botón __Submit__ para someter su trabajo.
 
-Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
+Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentran [en este enlace](fechas.html).
 
 Los mejores trabajos seleccionados por el comité científico del evento R Day 2023 serán invitados a enviar versiones extendidas de sus manuscritos para posible publicación en la revista TecnoLógicas del ITM.
