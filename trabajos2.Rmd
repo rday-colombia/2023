@@ -1,0 +1,37 @@
+---
+title: "Sometimiento de trabajos"
+---
+
+Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__, se recomienda referenciar los paquetes y mencionar las funciones usadas. Si los trabajos incluyen gran cantidad de código, se recomienda colocarlo en un repositorio de GitHub.
+
+La forma de presentar los trabajos será por medio de comunicaciones o pósters.
+
+## Pasos
+El sometimiento de trabajos se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
+
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} y crear una cuenta o membresía.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2023){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
+1. Dar clic en el botón __Create new submission__.
+1. Ingresar el título, el resumen de <span style="color: red;">1000 caracteres</span> y los autores.
+1. Oprimir el botón __Submit__ para someter su trabajo.
+
+Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
+
+## Formatos
+A continuación se encuentran los formatos para la elaboración de los trabajos y la presentación.
+
+- Los trabajos sometidos deben tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear el documento se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip).
+- Las diapositivas para las comunicaciones se deben crear usando Beamer desde R y [aquí hay una muestra](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day/Plantilla_presentacion_R_Day.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day.zip). 
+
+## Memorias
+Todos los trabajos presentados serán incluídos en las memorias.
+
+## Publicación en la Revista Tecnológicas
+
+Los mejores trabajos seleccionados por el comité científico del evento Rday 2023 serán invitados a enviar versiones extendidas de sus manuscritos para posible publicación en la revista TecnoLógicas del ITM.
+
+Tecnologicas (ISSN 0123-7799 E-ISSN 2256-5337) es una revista científica multidisciplinaria de acceso abierto que publica artículos en diferentes campos de la ingeniería y la tecnología aplicada. Publica artículos de investigación y revisión, inéditos, originales y relevantes en el área, escritos en inglés o español; seleccionados mediante un proceso de revisión por pares doble ciego. La revista TecnoLógicas se encuentra indexada en importantes bases de datos como Publindex, Scielo, Latindex, Redalyc, entre otras; lo que garantiza la visibilidad de su publicación. En el siguiente enlace podrá encontrar la guía para autores: https://revistas.itm.edu.co/index.php/tecnologicas/guia_articulo
+
+<center>
+<img src="imagenes/logo tecnologicas-01.png" width="300" height="80" alt="">
+</center>
