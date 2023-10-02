@@ -4,8 +4,7 @@ title: "Fechas importantes"
 
 ## Para las inscripciones
 
-<br>
-<br>
+<br> <br>
 
 | Actividad                | Fecha      |
 |--------------------------|------------|
@@ -21,5 +20,5 @@ title: "Fechas importantes"
 | Actividad                           | Fecha      |
 |-------------------------------------|------------|
 | Inicio del sometimiento de trabajos | 15/06/2023 |
-| Fin del sometimiento de trabajos    |  2/10/2023 |
+| Fin del sometimiento de trabajos    | <strike>2/10/2023</strike> <font color="#F41C0A">15/10/2023</font> |
 | Notificación de aceptación          | 17/10/2023 |
