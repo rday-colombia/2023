@@ -11,7 +11,7 @@ El sometimiento de trabajos se realizará por medio de la herramienta CMT. A con
 1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2023){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
 1. Dar clic en el botón __Create new submission__.
 1. Ingresar el título, el resumen de <span style="color: red;">1000 caracteres</span> y los autores.
-1. Elejir si es comunicación o póster.
+1. Elegir si es comunicación o póster.
 1. Oprimir el botón __Submit__ para someter su trabajo.
 
 Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentran [en este enlace](fechas.html).
