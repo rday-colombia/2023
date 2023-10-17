@@ -1,0 +1,25 @@
+---
+title: "Sometimiento de trabajos"
+---
+
+Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__. La forma de presentar los trabajos será por medio de comunicaciones o pósters.
+
+## Pasos
+El sometimiento de trabajos se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
+
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} y crear una cuenta o membresía.
+1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2023){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
+1. Dar clic en el botón __Create new submission__.
+1. Ingresar el título, el resumen de <span style="color: red;">1000 caracteres</span> y los autores.
+1. Elegir si es comunicación o póster.
+1. Oprimir el botón __Submit__ para someter su trabajo.
+
+Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentran [en este enlace](fechas.html).
+
+Las Memorías del evento se realizarán con los resumenes extendidos de los trabajos aceptados. Estos resúmenes deben tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear el resumen se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip).
+
+Los mejores trabajos seleccionados por el comité científico del evento R Day 2023 serán invitados a enviar versiones extendidas de sus manuscritos para posible publicación en la revista TecnoLógicas del ITM.
+
+<center>
+<img src="imagenes/logo tecnologicas-01.png" width="300" height="80" alt="">
+</center>
