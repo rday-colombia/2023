@@ -1,32 +1,19 @@
 ---
-title: "Sometimiento de trabajos"
+title: "Memorias"
 ---
 
-Son bienvenidos todos los trabajos en cuya metodología se haya usado el lenguaje de programación __R__, se recomienda referenciar los paquetes y mencionar las funciones usadas. Si los trabajos incluyen gran cantidad de código, se recomienda colocarlo en un repositorio de GitHub.
+Para crear las Memorias del evento R Day 2023 se le solicita subir a la plataforma CMT el resumen pdf de 4 páginas generado a partir de [esta plantilla](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip). El resumen final debe tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf).
 
-La forma de presentar los trabajos será por medio de comunicaciones o pósters.
+### Pasos
+Para subir el resumen de 4 páginas se utilizará la herramienta CMT siguiendo los siguientes pasos:
 
-## Pasos
-El sometimiento de trabajos se realizará por medio de la herramienta CMT. A continuación los pasos para someter un trabajo.
-
-1. Visitar [este enlace](https://cmt3.research.microsoft.com/User/Login){target="_blank"} y crear una cuenta o membresía.
 1. Visitar [este enlace](https://cmt3.research.microsoft.com/RDay2023){target="_blank"} para ingresar al sistema de sometimiento de trabajos.
-1. Dar clic en el botón __Create new submission__.
-1. Ingresar el título, el resumen de <span style="color: red;">1000 caracteres</span> y los autores.
-1. Oprimir el botón __Submit__ para someter su trabajo.
+1. Dar clic en la opción __Camera ready submission__.
+1. Subir el pdf.
 
-Una vez sometido el trabajo usted deberá esperar hasta la fecha de notificación (aceptación o rechazo) de trabajos. Las fechas se encuentra [en este enlace](fechas.html).
+<br>
 
-## Formatos
-A continuación se encuentran los formatos para la elaboración de los trabajos y la presentación.
-
-- Los trabajos sometidos deben tener [este formato](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day/Plantilla_trabajos_R_Day.pdf) y los archivos necesarios para crear el documento se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_trabajos_R_Day.zip).
-- Las diapositivas para las comunicaciones se deben crear usando Beamer desde R y [aquí hay una muestra](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day/Plantilla_presentacion_R_Day.pdf), los archivos para crear las diapositivas se encuentran [en este enlace](https://rday-colombia.github.io/2023/documentos/Plantilla_presentacion_R_Day.zip). 
-
-## Memorias
-Todos los trabajos presentados serán incluídos en las memorias.
-
-## Publicación en la Revista Tecnológicas
+# Publicación en la Revista Tecnológicas
 
 Los mejores trabajos seleccionados por el comité científico del evento Rday 2023 serán invitados a enviar versiones extendidas de sus manuscritos para posible publicación en la revista TecnoLógicas del ITM.
 

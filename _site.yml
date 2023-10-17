@@ -20,7 +20,7 @@ navbar:
     - text: "Fechas"
       href: fechas.html
     - text: "Trabajos"
-      href: trabajos.html
+      href: trabajos2.html
     - text: "Inscripciones"
       href: inscripciones.html
     - text: "Comités"
