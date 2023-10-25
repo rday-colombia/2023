@@ -4,9 +4,8 @@ title: "Inscripciones"
 
 Para realizar la inscripción al evento se deben seguir dos pasos:
 
-## 1. Realizar la pre-inscripción.
 
-1.1. Ingresar [a este link](https://www.udea.edu.co/wps/portal/udea/web/inicio/go?goid=portafolioext&q=25645&events=true) de pre-inscripción.
+1.1. Ingresar [a este link](https://www.udea.edu.co/wps/portal/udea/web/inicio/go?goid=portafolioext&q=25645&events=true) inscripción.
 
 1.2. Dar clic en el botón inscribirme y seguir todos los pasos. Abajo una figura ilustrativa del botón de inscripción.
 
@@ -14,8 +13,6 @@ Para realizar la inscripción al evento se deben seguir dos pasos:
 <img src="imagenes/guia_inscripcion.png" alt="Edif_Ext_UdeA" style="max-width: 35%;">
 </center>
 
-## 2. Pagar la inscripción.
-
-La inscripción tiene un valor de $100.000. Por ahora no está habilitado el botón de pago. Más adelante le avisaremos.
+La inscripción tiene un valor de $100.000.
 
 Cualquier inquietud no dude en escribirnos.
