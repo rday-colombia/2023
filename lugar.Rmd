@@ -5,7 +5,7 @@ title: "Local"
 El evento se realizará en el edificio de Extensión UdeA.
 
 <center>
-<img src="imagenes/extension_udea.jpg" alt="Edif_Ext_UdeA" style="max-width: 80%;">
+<img src="imagenes/extension_udea2.jpg" alt="Edif_Ext_UdeA" style="max-width: 80%;">
 </center>
 
 <br/>
