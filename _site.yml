@@ -4,7 +4,13 @@ navbar:
   title: "Inicio"
   left:
     - text: "Programa"
-      href: programa.html
+      menu:
+      - text: General
+        icon: fa-calendar
+        href: programa.html
+      - text: Comunicaciones
+        icon: fa-calendar-check-o
+        href: comunicaciones.html
     - text: "Conferencistas"
       href: conferencistas.html
     - text: "Tutoriales"
