@@ -4,5 +4,4 @@ title: "Programa de comunicaciones"
 
 Abajo se encuentra el programa de las comunicaciones.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPZkQpqc_8YCJ_ALAmkLht4AFhVNabLHUpEtWzH5N7hxbZvxtfus3aBVkG-ADI7hHVmZW_PjEqG7K_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 600px; height: 1400px;"></iframe>
-
+<img src="imagenes/prog_comunicaciones.png" alt="Programa">
