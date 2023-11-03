@@ -4,5 +4,5 @@ title: "Programa general"
 
 Abajo se encuentra el programa general del evento.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSwcbB7UfRqqKlD-9RbNS-3YgWGNTbIOp4CyY0u2uJQRJcCUrhWjTmdEWB_z3QuA4EmZLOAGsIcxOZk/pubhtml?widget=true&amp;headers=false" style="width: 480px; height: 2330px;"></iframe>
+<img src="imagenes/programa.png" alt="Programa">
 
