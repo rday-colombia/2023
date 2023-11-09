@@ -17,10 +17,25 @@ Visite [este enlace](https://rday-colombia.github.io/2023/inscripciones.html){ta
 <br/>
 
 <center>
-Organizan  
+
+<h1> Organizan </h1>
 
 <img src="imagenes/auxiliar.png" 
      style="max-width: 80%;" />
+     
+<br>
+<br>
+<br>
+     
+<h1> Apoyan </h1>
+
+<img src="imagenes/noel-logo.png" 
+     style="max-width: 30%;" />
+     
+<br>
+     
+<img src="imagenes/LOGO_fun_udea.jpg" 
+     style="max-width: 30%;" />
      
 </center>
 
