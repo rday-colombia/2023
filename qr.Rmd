@@ -1,0 +1,7 @@
+---
+title: "Código QR"
+---
+
+<center>
+<img src="imagenes/qr_rday.png" width="400" height="400" alt="">
+</center>
