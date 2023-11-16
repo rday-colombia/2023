@@ -24,5 +24,5 @@ title: "Fechas importantes"
 | Inicio del sometimiento de trabajos | 15/06/2023                                                        |
 | Fin del sometimiento de trabajos    | <strike>2/10/2023</strike> 9/10/2023 |
 | Notificación de aceptación          | 17/10/2023                                                        |
-| Envío de resumen extendido          | <strike>17/11/2023</strike> 23/11/2023                         |
+| Envío de resumen extendido          | <strike>17/11/2023</strike> 19/11/2023                         |
 
