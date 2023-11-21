@@ -15,14 +15,8 @@ title: "Comités"
 <br/>
 
 ## Comité científico
-- [David Rodríguez Guevara](https://www.itm.edu.co/), Institución Universitaria ITM.
-- [Jonathan Cano Bedoya](https://www.itm.edu.co/), Institución Universitaria ITM.
-- [Diana Marcela Pérez Valencia](https://www.ehu.eus/es/home), Universidad del País Vasco.
-- [Jessica María Rojas Mora](https://www.itm.edu.co/), Institución Universitaria ITM.
 - [Sara Garces Cespedes](https://www.meetup.com/es/rladies-medellin/), Universidad Nacional de Colombia, sede Medellín.
 - [Maria Valentina Clavijo Mesa](https://www.meetup.com/es/rladies-medellin/), Politécnico de Milán, Italia.
-- [Luz Marcela Restrepo Tamayo](https://udemedellin.edu.co/), Universidad de Medellín.
-- [Eddy Herrera Daza](https://www.javeriana.edu.co/inicio), Pontificia Universidad Javeriana.
 - [Olga Cecilia Usuga Manco](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia.
 - [Carmen Elena Patiño Rodríguez](https://www.meetup.com/es/rladies-medellin/), Universidad de Antioquia.
 - [Romario Ademir Conto López](https://www.itm.edu.co/), Institución Universitaria ITM.
