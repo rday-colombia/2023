@@ -47,8 +47,8 @@ Visite [este enlace](https://rday-colombia.github.io/2023/inscripciones.html){ta
      
 <br>
 
-<img src="imagenes/factored.jpg" 
-     style="max-width: 50%;" />
+<img src="imagenes/logo_factored.png" 
+     style="max-width: 40%;" />
      
 </center>
 
