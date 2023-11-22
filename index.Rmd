@@ -45,5 +45,10 @@ Visite [este enlace](https://rday-colombia.github.io/2023/inscripciones.html){ta
 <img src="imagenes/LOGO_fun_udea.jpg" 
      style="max-width: 30%;" />
      
+<br>
+
+<img src="imagenes/factored.jpg" 
+     style="max-width: 50%;" />
+     
 </center>
 
