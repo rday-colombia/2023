@@ -1,21 +1,19 @@
 ---
-title: "Respuestas"
+title: "FAQ"
 ---
-Abajo se encuentran las respuestas a las preguntas más frecuentes.
+Abajo se encuentran las respuestas a las preguntas más frecuentes (frequently asked questions).
 
 <br/>
 
 ## ¿Dónde puedo encontrar los tutoriales 💻?
 
-Para consultar el material de los tutoriales visite [este enlace](https://github.com/rdaymedellin/tutoriales_Rday_2019).
+Para consultar el material de los tutoriales visite [este enlace](https://github.com/rday-colombia/tutoriales_Rday_2023).
 
 <br/>
 
 ## ¿Dónde puedo encontrar los slides de las conferencias 🎤?
 
-1. [R 4 All - Welcoming and inclusive practices for teaching R](https://speakerdeck.com/minecr/r4all-welcoming-plus-inclusive-practices-for-teaching-r-b1f4cbcf-64af-4110-94f7-c465020add1d) by Mine Çetinkaya.
-2. [Deep Learning for Everyone](https://speakerdeck.com/kroz/deep-learning-for-everyone-rday-medellin) - Gabriela de Queiroz.
-3. Statistics in the Genomic Era: where we were, where we are and where we want to be - Jorge Iván Vélez.
+Para consultar el material mostrado en las conferencias visite [este enlace](https://github.com/rday-colombia/Conferencias_Rday_2023).
 
 <br/>
 
@@ -28,7 +26,7 @@ Para consultar el material de los tutoriales visite [este enlace](https://github
 
 ## ¿Dónde puedo encontrar las Memorias del evento 📓?
 
-Para consultar las memorias del evento visite [este enlace](https://rdaymedellin.github.io/documentos/Memorias/Memorias_Rday_Medellin.pdf).
+Cuando estén listas las memorias las podrá encontrar [este enlace](https://github.com/rday-colombia/Memorias_Rday_2023).
 
 <br/>
 
