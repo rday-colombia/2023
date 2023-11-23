@@ -35,7 +35,7 @@ navbar:
 #      href: divulgacion.html
     - text: "Código de conducta"
       href: conducta.html
-   - text: "FAQ"
+    - text: "FAQ"
       href: respuestas.html
   right:
   - icon: fa-twitter
