@@ -28,7 +28,7 @@ navbar:
     - text: "Trabajos"
       href: trabajos.html
     - text: "Inscripciones"
-      href: inscripciones.html
+      href: fin_inscripciones.html
     - text: "Comités"
       href: comites.html
 #    - text: "Divulgación"

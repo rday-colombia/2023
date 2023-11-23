@@ -1,5 +1,5 @@
 ---
-title: "Registro"
+title: "Inscripciones"
 ---
 <center>
 <span style="background-color: #D7FAC8">
