@@ -25,10 +25,10 @@ navbar:
         href: lugar.html
     - text: "Fechas"
       href: fechas.html
-    - text: "Trabajos"
-      href: trabajos.html
-    - text: "Inscripciones"
-      href: fin_inscripciones.html
+#    - text: "Trabajos"
+#      href: trabajos.html
+#    - text: "Inscripciones"
+#      href: fin_inscripciones.html
     - text: "Comités"
       href: comites.html
 #    - text: "Divulgación"
