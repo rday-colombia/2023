@@ -14,7 +14,7 @@ title: "R Day - Segundo encuentro nacional de usuarios de R"
 <br/>
 
 <center>
-<span style="background-color: #D7FAC8">
+<span style="background-color: #F7BEE3">
 Las inscripciones han finalizado, llegamos al número máximo de inscritos. 
 Gracias.
 </span>
