@@ -17,7 +17,7 @@ Para consultar el material mostrado en las conferencias visite [este enlace](htt
 
 <br/>
 
-## ¿Dónde puedo encontrar las Memorias del evento 📓?
+## ¿Dónde puedo encontrar las memorias del evento 📓?
 
 Cuando estén listas las memorias las podrá encontrar [este enlace](https://github.com/rday-colombia/Memorias_Rday_2023).
 
