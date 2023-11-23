@@ -3,7 +3,7 @@ title: "R Day - Segundo encuentro nacional de usuarios de R"
 ---
 
 <center>
-<img border="0" src="imagenes/diapositiva2.png">
+<img border="0" src="imagenes/diapositiva1.png">
 </center>
 
 <center>
