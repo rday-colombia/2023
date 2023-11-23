@@ -36,12 +36,12 @@ title: "R Day - Segundo encuentro nacional de usuarios de R"
 <h1> Apoyan </h1>
 
 <img src="imagenes/noel-logo.png" 
-     style="max-width: 30%;" />
+     style="max-width: 40%;" />
      
 <br>
      
 <img src="imagenes/LOGO_fun_udea.jpg" 
-     style="max-width: 30%;" />
+     style="max-width: 40%;" />
      
 <br>
 
