@@ -11,9 +11,9 @@ Para consultar el material de los tutoriales visite [este enlace](https://github
 
 <br/>
 
-## ¿Dónde puedo encontrar los slides de las conferencias 🎤?
+## ¿Dónde puedo encontrar los videos de las conferencias 🎤?
 
-Para consultar el material mostrado en las conferencias visite [este enlace](https://github.com/rday-colombia/Conferencias_Rday_2023).
+Para ver las conferencias visite [este enlace](https://rday-colombia.github.io/2023/conferencistas.html). Debajo de la foto de cada conferencista está el video YouTube con la grabación.
 
 <br/>
 

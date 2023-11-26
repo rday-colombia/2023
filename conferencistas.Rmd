@@ -12,7 +12,13 @@ Instructora certificada de tidyverse y profesora de [Curso-R](https://curso-r.co
 <img border="0" src="imagenes/flag_brasil.jpeg" width="25" height="25">
 </center>
 
-<br>
+<br/>
+
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/Oj9cwnXs_oo?si=sQPPv7C_MZjzuqp5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
 
 <center>
 <img src="imagenes/fotos_conferencistas/miguel_sorrel.PNG" width="300" height="300" alt="">  
@@ -22,7 +28,13 @@ Assistant Professor in Methodology at the Autonomous University of Madrid.
 <img border="0" src="imagenes/flag_espana.png" width="25" height="25">
 </center>
 
-<br>
+<br/>
+
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/ywmr9qCUWEU?si=IHMiML2AiQG1afPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
 
 <center>
 <img src="imagenes/fotos_conferencistas/paula_moraga.PNG" width="300" height="300" alt="">  
@@ -32,7 +44,13 @@ Assistant Professor of Statistics at King Abdullah University of Science and Tec
 <img border="0" src="imagenes/flag_arabia.png" width="25" height="25">
 </center>
 
-<br>
+<br/>
+
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/6ccX5cpy2VQ?si=0Y-o5L9gRjWOXGLB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
 
 <center>
 <img src="imagenes/fotos_conferencistas/walmes_zeviani.png" width="300" height="300" alt="">  
@@ -42,7 +60,13 @@ Assistant Professor of Statistics at UFPR & R programmer, Curitiba, Brasil.
 <img border="0" src="imagenes/flag_brasil.jpeg" width="25" height="25">
 </center>
 
-<br>
+<br/>
+
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/HWgRgMBUqy4?si=ahm-AJ_vVjKS8k2X" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
 
 <center>
 <img src="imagenes/fotos_conferencistas/Riva.png" width="300" height="300" alt="">  
@@ -52,7 +76,13 @@ Linguista y amante de trabajar con datos, Valparaiso, Chile.
 <img border="0" src="imagenes/flag_chile.jpeg" width="25" height="25">
 </center>
 
-<br>
+<br/>
+
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/gTd8aM6cgJA?si=98S_4_22uj-kNit2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
 
 <center>
 <img src="imagenes/fotos_conferencistas/yanina.png" width="300" height="300" alt="">  
@@ -62,4 +92,10 @@ Educadora, creadora de comunidad e investigadora, La Pampa, Argentina.
 <img border="0" src="imagenes/flag_argentina.jpeg" width="25" height="25">
 </center>
 
+<br/>
 
+<center>
+<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br/>
