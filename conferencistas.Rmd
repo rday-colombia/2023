@@ -15,9 +15,11 @@ Instructora certificada de tidyverse y profesora de [Curso-R](https://curso-r.co
 <br/>
 
 <center>
-<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/Oj9cwnXs_oo?si=sQPPv7C_MZjzuqp5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj9cwnXs_oo?si=sQPPv7C_MZjzuqp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+<br/>
+<br/>
 <br/>
 
 <center>
@@ -31,9 +33,11 @@ Assistant Professor in Methodology at the Autonomous University of Madrid.
 <br/>
 
 <center>
-<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/ywmr9qCUWEU?si=IHMiML2AiQG1afPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywmr9qCUWEU?si=IHMiML2AiQG1afPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+<br/>
+<br/>
 <br/>
 
 <center>
@@ -47,9 +51,11 @@ Assistant Professor of Statistics at King Abdullah University of Science and Tec
 <br/>
 
 <center>
-<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/6ccX5cpy2VQ?si=0Y-o5L9gRjWOXGLB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ccX5cpy2VQ?si=0Y-o5L9gRjWOXGLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+<br/>
+<br/>
 <br/>
 
 <center>
@@ -63,9 +69,11 @@ Assistant Professor of Statistics at UFPR & R programmer, Curitiba, Brasil.
 <br/>
 
 <center>
-<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/HWgRgMBUqy4?si=ahm-AJ_vVjKS8k2X" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HWgRgMBUqy4?si=sgR-RMk0UbBmn0bO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+<br/>
+<br/>
 <br/>
 
 <center>
@@ -79,9 +87,11 @@ Linguista y amante de trabajar con datos, Valparaiso, Chile.
 <br/>
 
 <center>
-<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/gTd8aM6cgJA?si=98S_4_22uj-kNit2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTd8aM6cgJA?si=98S_4_22uj-kNit2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+<br/>
+<br/>
 <br/>
 
 <center>
@@ -95,7 +105,7 @@ Educadora, creadora de comunidad e investigadora, La Pampa, Argentina.
 <br/>
 
 <center>
-<iframe style="max-width: 90%;" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj9cwnXs_oo?si=sQPPv7C_MZjzuqp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 <br/>
