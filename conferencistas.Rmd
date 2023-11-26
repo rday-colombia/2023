@@ -2,7 +2,7 @@
 title: "Conferencistas"
 ---
 
-Estamos muy felices de presentar a los conferencistas que nos acompañarán de __forma virtual__ en el R Day.
+Estamos muy felices de presentar a los conferencistas que nos acompañaron de __forma virtual__ en el R Day. Debajo de cada foto podrá encontrar el video YouTube de la conferencia.
 
 <center>
 <img src="imagenes/fotos_conferencistas/bea_milz.png" width="300" height="300" alt="">  
@@ -105,7 +105,7 @@ Educadora, creadora de comunidad e investigadora, La Pampa, Argentina.
 <br/>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj9cwnXs_oo?si=sQPPv7C_MZjzuqp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFf6v4SZvR0?si=fvZH-jc-9W488noK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 <br/>
