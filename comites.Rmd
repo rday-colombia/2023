@@ -10,7 +10,6 @@ title: "Comités"
 - [Martha Catalina Ospina Hernández](https://www.unad.edu.co/), Universidad Nacional Abierta y a Distancia.
 - [Romario Ademir Conto López](https://www.itm.edu.co/), Institución Universitaria ITM.
 - [Freddy Hernández Barajas](https://fhernanb.github.io/), Universidad Nacional de Colombia, sede Medellín.
-- [Jorge I. Vélez](https://jorgeivanvelez.netlify.app/), Universidad del Norte.
 
 <br/>
 
