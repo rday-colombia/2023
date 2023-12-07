@@ -6,7 +6,7 @@ Abajo se encuentran las respuestas a preguntas más frecuentes (frequently asked
 ## ¿Dónde puedo encontrar los certificados?
 
 - [Certificados de ponencias](https://rday-colombia.github.io/2023/documentos/Certificados/CertificadoPonentes.pdf).
-- [Certificados de participación](https://rday-colombia.github.io/2023/documentos/Certificados/CertificadodeParticipacion.pdf).
+- [Certificados de participación](https://rday-colombia.github.io/2023/documentos/Certificados/CertificadosdeParticipacion.pdf).
 - [Certificados de tutoriales](https://rday-colombia.github.io/2023/documentos/Certificados/CertificadoTutorial.pdf).
 
 <br/>
