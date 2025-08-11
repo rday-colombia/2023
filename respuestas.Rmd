@@ -25,7 +25,8 @@ Para ver las conferencias visite [este enlace](https://rday-colombia.github.io/2
 
 ## ¿Dónde puedo encontrar las memorias del evento 📓?
 
-Cuando estén listas las memorias las podrá encontrar [este enlace](https://github.com/rday-colombia/Memorias_Rday_2023).
+Las memorias las podrá encontrar [este enlace](https://raw.githubusercontent.com/rday-colombia/2023/master/documentos/Memorias/Memorias%20R%20Day%202023.pdf
+).
 
 <br/>
 
